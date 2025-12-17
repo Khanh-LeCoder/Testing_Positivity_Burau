@@ -1,6 +1,10 @@
-s = input("Enter the number of strands: ")
-n = input("Enter the number of trials: ")
-l = input("Enter the length of the word: ")
-c = 0
-for k in range(n):
+strands = input("Enter the number of strands: ")
+sample_size = input("Enter the number of trials: ")
+length = input("Enter the length of the word: ")
+
+positive_count = test_pos_eig(strands, length, sample_size)
+
+print(f"The portion of braids with all positive eigenvalues is " positive_count/sample_size)
+
+
 
