@@ -81,9 +81,15 @@ def count_sign_change(coeff_sequence):
 	return count
 
 def count_pos_roots(char):
-	Vinfty = count_sign_change(lowest_coeff_seq(sturm_at_pos_infty(char)))
+	V_pos_infty = count_sign_change(lowest_coeff_seq(sturm_at_pos_infty(char)))
 	Vzero = count_sign_change(lowest_coeff_seq(sturm_at_zero(char)))
-	return Vzero - Vinfty
+	return Vzero - V_pos_infty
+
+
+def count_real_roots(char):
+	V_pos_infty = count_sign_change(lowest_coeff_seq(sturm_at_pos_infty(char)))
+	V_neg_infty = count_sign_change(lowest_coeff_seq(sturm_at_neg_infty(char)))
+	return V_neg_infty - V_pos_infty
 
 L.<t> = FunctionField(QQ)
 d = L.higher_derivation()
@@ -96,6 +102,15 @@ def test_pos_eig(strands, length, sample_size):
 		braid = random_braid(strands,length)
 		char = char_poly(braid.burau_matrix(var= 't',reduced =True))
 		if count_pos_roots(char) == strands - 1: 
+			count = count + 1
+	return count
+
+def test_real_eig(strands, length, sample_size):
+	count = 0
+	for k in range(sample_size):
+		braid = random_braid(strands,length)
+		char = char_poly(braid.burau_matrix(var= 't',reduced =True))
+		if count_real_roots(char) == strands - 1: 
 			count = count + 1
 	return count
 
