@@ -4,4 +4,4 @@ sample_size = int(input("Enter the number of trials: "))
 
 real_count = test_real_eig(strands, length, sample_size)
 
-print(f"The portion of braids with all positive eigenvalues is {real_count/sample_size*100}")
+print(f"The portion of braids with all positive eigenvalues is {real_count/sample_size*100}%")
