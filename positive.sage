@@ -49,10 +49,7 @@ def sturm_at_pos_infty(char):
 def sturm_at_neg_infty(char):
 	L.<t> = FunctionField(QQ)
 	sturm = sturm_chain(char)
-	if char.degree() % 2 == 0:
-		return [L(c.leading_coefficient()).list()[0] for c in sturm]
-	else:
-		return [-L(c.leading_coefficient()).list()[0] for c in sturm]
+	return [L(c.leading_coefficient()).list()[0] if c.degree() % 2 == 0 else -L(c.leading_coefficient()).list()[0] for c in sturm]
 
 def sturm_at_zero(char):
 	sturm = sturm_chain(char)
