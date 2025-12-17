@@ -7,10 +7,10 @@ periodic_count = 0
 for k in range(sample_size):
 	braid = random_braid(strands,length)
 	if braid.is_periodic():
-    	periodic_count = periodic_count + 1
-  	else:
-    	char = char_poly(braid.burau_matrix(var= 't',reduced =True))
-	  	if count_real_roots(char) == strands - 1: 
+		periodic_count = periodic_count + 1
+	else:
+		char = char_poly(braid.burau_matrix(var= 't',reduced =True))
+		if count_real_roots(char) == strands - 1: 
 			real_count = real_count + 1
 
 print(f"The portion of periodic braids is {periodic_count/sample_size*100}%")
