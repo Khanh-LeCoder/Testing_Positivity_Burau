@@ -41,10 +41,18 @@ def sturm_chain(char):
 		p1 = r
 	return sturm
 	
-def sturm_at_infty(char):
+def sturm_at_pos_infty(char):
 	L.<t> = FunctionField(QQ)
 	sturm = sturm_chain(char)
 	return [L(c.leading_coefficient()).list()[0] for c in sturm]	
+
+def sturm_at_neg_infty(char):
+	L.<t> = FunctionField(QQ)
+	sturm = sturm_chain(char)
+	if char.degree() % 2 == 0:
+		return [L(c.leading_coefficient()).list()[0] for c in sturm]
+	else:
+		return [-L(c.leading_coefficient()).list()[0] for c in sturm]
 
 def sturm_at_zero(char):
 	sturm = sturm_chain(char)
@@ -73,7 +81,7 @@ def count_sign_change(coeff_sequence):
 	return count
 
 def count_pos_roots(char):
-	Vinfty = count_sign_change(lowest_coeff_seq(sturm_at_infty(char)))
+	Vinfty = count_sign_change(lowest_coeff_seq(sturm_at_pos_infty(char)))
 	Vzero = count_sign_change(lowest_coeff_seq(sturm_at_zero(char)))
 	return Vzero - Vinfty
 
