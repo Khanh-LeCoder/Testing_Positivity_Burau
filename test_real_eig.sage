@@ -1,6 +1,6 @@
-strands = input("Enter the number of strands: ")
-length = input("Enter the length of the word: ")
-sample_size = input("Enter the number of trials: ")
+strands = int(input("Enter the number of strands: "))
+length = int(input("Enter the length of the word: "))
+sample_size = int(input("Enter the number of trials: "))
 
 real_count = test_real_eig(strands, length, sample_size)
 
