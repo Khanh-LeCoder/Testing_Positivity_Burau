@@ -22,27 +22,27 @@ for k in range(sample_size):
 
 	if gcd(char,char_der) != 1:
 		multi_roots_count = multi_roots_count + 1
-		multi_roots.append([braid,char,thurston_type,count_real_roots(char)])
+		multi_roots.append([braid.Tietze(),char,thurston_type,count_real_roots(char)])
 	
 	if thurston_type == 'pseudo-anosov':
 		pA_count = pA_count + 1
 		if count_real_roots(char) == strands - 1:
 			pA_real_count = pA_real_count + 1
 		else:
-			print(f"The pA braid {braid} does not have all real eigenvalues")
+			print(f"The pA braid {braid.Tietze()} does not have all real eigenvalues")
 	
 	if thurston_type == 'periodic':
 		per_count = per_count + 1
 		if count_real_roots(char) == strands - 1:
 			per_real_count = per_real_count + 1
-			print(f"The periodic braid {braid} does have all real eigenvalues")
+			print(f"The periodic braid {braid.Tietze()} does have all real eigenvalues")
 	
 	if thurston_type == 'reducible':
 		red_count = red_count + 1
 		if count_real_roots(char) == strands - 1:
 			red_real_count = red_real_count + 1
 		else:
-			print(f"The reducible braid {braid} does not have all real eigenvalues")
+			print(f"The reducible braid {braid.Tietze()} does not have all real eigenvalues")
 
 print()
 print(f"There are {pA_count} pA braids of which {pA_real_count} have real eigenvalues")
