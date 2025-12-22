@@ -1,1 +1,459 @@
+Enter the number of strands: 6
+Enter the length of the word: 10
+Enter the number of trials: 100
 
+The reducible braid (4, -2, 4, 5, -4, 2, 5, -2) does not have all real eigenvalues
+The reducible braid (1, -5, -1, 2, -3, -2, 5, -1) does not have all real eigenvalues
+The reducible braid (-3, -5, -2, -5, -4, 5) does not have all real eigenvalues
+The reducible braid (-2, -1, 2, 3, 1, 2) does not have all real eigenvalues
+The reducible braid (-3, 1, 1, -4, -1, -5, 3, -1, -3, -3) does not have all real eigenvalues
+The reducible braid (-3, -2, 1, -4, -3, 4, 1, 4, -1, 4) does not have all real eigenvalues
+The pA braid (-5, 3, -2, 3, 3, 2, 1, -4) does not have all real eigenvalues
+The reducible braid (-4, -2, -3, 4, -3, 5, -2, 5) does not have all real eigenvalues
+The reducible braid (-1, -4, -2, 3, 4, 2) does not have all real eigenvalues
+The reducible braid (5, 1, -4, -2, -1, 4) does not have all real eigenvalues
+The reducible braid (-3, -3, -2, -2, 1, -3, -5, -1) does not have all real eigenvalues
+The reducible braid (-4, 5, -3, -2, 3, 2, 3, 2, -5, 2) does not have all real eigenvalues
+The pA braid (5, -2, -1, 4, 3, 4, 2, 3, 2, 5) does not have all real eigenvalues
+The pA braid (-2, -3, 4, 1, 5, 2, 2, 1) does not have all real eigenvalues
+The reducible braid (-3, -5, -3, 1, 2, 5) does not have all real eigenvalues
+The pA braid (-5, 1, -3, -1, -1, -4, 5, -4, -2, -2) does not have all real eigenvalues
+The reducible braid (1, -4, -3, -4, 3, 2) does not have all real eigenvalues
+The reducible braid (3, -5, -1, -2, 1, -4) does not have all real eigenvalues
+The reducible braid (4, -1, 3, 1, -5, 2, -4, -3, -5, 3) does not have all real eigenvalues
+The reducible braid (-3, -5, 3, 3, -1, 4) does not have all real eigenvalues
+The reducible braid (-1, -1, 4, -5, 2, 4, -5, -2) does not have all real eigenvalues
+The reducible braid (4, 3, 5, -3, 4, 3, 2, 4) does not have all real eigenvalues
+The reducible braid (-2, 4, 5, 5) does not have all real eigenvalues
+The reducible braid (-5, 4, -2, -4, -1, -3) does not have all real eigenvalues
+The reducible braid (2, 4, 2, 4, -2, -1, -2, -5) does not have all real eigenvalues
+The reducible braid (2, 5) does not have all real eigenvalues
+The reducible braid (1, -4, -1, -2, -5, -4, 5, 5, 1, 2) does not have all real eigenvalues
+The reducible braid (1, 1, 1, 1, 3, -1, 5, -3, 1, 3) does not have all real eigenvalues
+The reducible braid (-2, -1, 2, 4, -1, -1, -1, 4) does not have all real eigenvalues
+The reducible braid (-4, -4, 5, -2, 3, -5, -2, -2, 1, -2) does not have all real eigenvalues
+The reducible braid (2, 1, -5, -1, 2, -4, -1, -2) does not have all real eigenvalues
+The pA braid (-3, -4, 3, -5, -1, 2, 3, 4) does not have all real eigenvalues
+The reducible braid (3, 3, -1, 3, -1, 2, 1, 1) does not have all real eigenvalues
+The pA braid (3, -2, 1, -3, 5, 5, -2, -4) does not have all real eigenvalues
+The reducible braid (-3, 1, 3, 2, -4, -4, 2, -4) does not have all real eigenvalues
+The pA braid (-3, -3, 5, -1, -2, -1, -3, 4) does not have all real eigenvalues
+The reducible braid (4, 1, 2, -4, 3, 4, -2, 3, 1, 2) does not have all real eigenvalues
+The reducible braid (5, 4, 4, 4, -2, -4, 5, 5) does not have all real eigenvalues
+The reducible braid (-1, 2, 4, -5, -2, -4, -3, 5) does not have all real eigenvalues
+The reducible braid (5, -2, -2, -3, 4, -3, 2, -4, -5, 2) does not have all real eigenvalues
+The reducible braid (-5, 3, 3, -1, -1, -5) does not have all real eigenvalues
+The reducible braid (-5, -2, 5, 5, 5, -1, 5, 1, -4, -1) does not have all real eigenvalues
+The reducible braid (-4, 2, 1, 4, 1, 5, -3, -2) does not have all real eigenvalues
+The reducible braid (-2, -5, -5, -5, 1, -4, 5, -2, -5, 1) does not have all real eigenvalues
+The pA braid (5, -2, -1, -5, 4, -1, -5, -3, -1, -5) does not have all real eigenvalues
+The reducible braid (5, -1, -2, 4, -5, -5, -5, 3, 2, 5) does not have all real eigenvalues
+The pA braid (3, 1, 1, -2, -4, -5, 1, 3) does not have all real eigenvalues
+The reducible braid (2, -1, 5, -4, -5, 2) does not have all real eigenvalues
+The reducible braid (-4, -3, -3, -2, -5, -4) does not have all real eigenvalues
+The reducible braid (-3, -5, -4, 2, 4, -5, -2, -1) does not have all real eigenvalues
+The pA braid (1, 2, 1, 2, -4, -2, -5, -3) does not have all real eigenvalues
+The reducible braid (2, -4, 5, 4, -2, -2) does not have all real eigenvalues
+The reducible braid (4, 2, 4, 3, -1, -3, 1, -5) does not have all real eigenvalues
+The reducible braid (-1, -4) does not have all real eigenvalues
+The reducible braid (4, -1, 4, -5, -2, -5, -5, 2) does not have all real eigenvalues
+The reducible braid (4, -3, 4, 5, 5, 3) does not have all real eigenvalues
+The reducible braid (-1, 5, 1, -5, -1, -2, -4, 2) does not have all real eigenvalues
+The reducible braid (4, 5, -4, 3, 1, -2, -3, 5, -4, 1) does not have all real eigenvalues
+The reducible braid (-1, 2, 1, 2, 2, 1) does not have all real eigenvalues
+The reducible braid (-4, 3, -5, 1) does not have all real eigenvalues
+The reducible braid (-3, -1, 4, 1, -4, -5, 2, 5) does not have all real eigenvalues
+The pA braid (-5, 3, -1, -1, -2, -4, -1, -4, 2, -4) does not have all real eigenvalues
+The reducible braid (1, -3, 1, 3, 4, -5, -4, 3) does not have all real eigenvalues
+The reducible braid (5, -3, 1, -2, -5, -1, -2, -1) does not have all real eigenvalues
+The pA braid (2, 2, -1, -5, 3, 4, -1, 4, -5, -2) does not have all real eigenvalues
+The reducible braid (2, -3, -1, -2, 5, 2, 5, -2) does not have all real eigenvalues
+The pA braid (-5, -4, -4, 5, -2, -5, 4, 1, -3, 1) does not have all real eigenvalues
+The reducible braid (-5, -1, 3, -4, -1, -4, 5, -4, 5, -1) does not have all real eigenvalues
+The reducible braid (1, 4, 5, -3, -4, -5, -1, 5) does not have all real eigenvalues
+The pA braid (3, -5, -1, 2, 4, -5, -1, 3, 5, 4) does not have all real eigenvalues
+The pA braid (2, -5, 3, 4, 5, -4, -1, -5) does not have all real eigenvalues
+The reducible braid (1, 2, 1, 2, 2, -3) does not have all real eigenvalues
+The reducible braid (-2, -5, 2, -3, 5, -4, -3, -5) does not have all real eigenvalues
+The pA braid (2, -1, 3, -1, -5, 2, 3, 4) does not have all real eigenvalues
+The reducible braid (1, 1, -3, -2, 1, -3, 2, 4) does not have all real eigenvalues
+The reducible braid (-3, -1, -5, 1, 1, -5, -3, 4, 5, -1) does not have all real eigenvalues
+The reducible braid (3, -5, -4, 5, 1, -3, -1, 4, 5, 5) does not have all real eigenvalues
+The reducible braid (2, -4, 2, 4, 4, -3) does not have all real eigenvalues
+The reducible braid (-2, 5, -1, 3, 5, 2, -3, 2, 5, 4) does not have all real eigenvalues
+The reducible braid (-3, -3, 1, 4, 5, -1, 4, 4) does not have all real eigenvalues
+The pA braid (-3, -4, -4, -1, 3, 2, 4, 5, -1, -1) does not have all real eigenvalues
+The reducible braid (2, 1, -4, 1, -2, 4, 5, -4) does not have all real eigenvalues
+
+There are 23 pA braids of which 6 have real eigenvalues
+There are 0 periodic braids of which 0 have real eigenvalues
+There are 77 reducible braids of which 12 have real eigenvalues
+
+There are 44 braids with repeated eigenvalues
+[(4, -2, 4, 5, -4, 2, 5, -2), x^5 + (-t^4 - t + 1)*x^4 + (t^5 - t^4 - t^2 - t)*x^3 + (t^6 + t^5 + t^3 - t^2)*x^2 + (-t^7 + t^6 + t^3)*x - t^7, 'reducible', 4]
+[(1, -5, -1, 2, -3, -2, 5, -1), x^5 + (-3*t^3 + t^2)*x^4 + (3*t^6 - 3*t^5 + t^4)*x^3 + (-t^9 + 3*t^8 - 3*t^7)*x^2 + (-t^11 + 3*t^10)*x - t^13, 'reducible', 1]
+[(-2, -1, 2, 3, 1, 2), x^5 + (t - 3)*x^4 + (t^2 - 3*t + 3)*x^3 + (-3*t^2 + 3*t - 1)*x^2 + (3*t^2 - t)*x - t^2, 'reducible', 1]
+[(-3, 1, 1, -4, -1, -5, 3, -1, -3, -3), x^5 - 2*t^2*x^4 + t^4*x^3 - t^2*x^2 + 2*t^4*x - t^6, 'reducible', 2]
+[(-1, -4, -2, 3, 4, 2), x^5 + (t^2 - 4*t + 1)*x^4 + (-3*t^3 + 7*t^2 - 3*t)*x^3 + (3*t^4 - 7*t^3 + 3*t^2)*x^2 + (-t^5 + 4*t^4 - t^3)*x - t^5, 'reducible', 3]
+[(5, 1, -4, -2, -1, 4), x^5 + (t^3 - 3*t^2 + t)*x^4 + (-3*t^5 + 4*t^4 - 3*t^3)*x^3 + (3*t^7 - 4*t^6 + 3*t^5)*x^2 + (-t^9 + 3*t^8 - t^7)*x - t^10, 'reducible', 3]
+[(-3, -3, -2, -2, 1, -3, -5, -1), x^5 + (-2*t^4 + t^2 - t + 1)*x^4 + (t^8 - 3*t^6 + 3*t^5 - 3*t^4)*x^3 + (3*t^10 - 3*t^9 + 3*t^8 - t^6)*x^2 + (-t^14 + t^13 - t^12 + 2*t^10)*x - t^14, 'reducible', 4]
+[(-4, 5, -3, -2, 3, 2, 3, 2, -5, 2), x^5 + (t^4 - 3*t + 1)*x^4 + (-3*t^5 + t^4 + 3*t^2 - 3*t)*x^3 + (3*t^6 - 3*t^5 - t^3 + 3*t^2)*x^2 + (-t^7 + 3*t^6 - t^3)*x - t^7, 'reducible', 3]
+[(-3, -5, -3, 1, 2, 5), x^5 + (t^3 - 3*t^2 + t - 1)*x^4 + (t^6 - 3*t^5 + 4*t^4 - 3*t^3 + 2*t^2)*x^3 + (-2*t^8 + 3*t^7 - 4*t^6 + 3*t^5 - t^4)*x^2 + (t^10 - t^9 + 3*t^8 - t^7)*x - t^10, 'reducible', 2]
+[(-1, -1, 4, -5, 2, 4, -5, -2), x^5 + (-t^4 + 2*t^3 - 3*t^2 + 2*t - 2)*x^4 + (2*t^6 - 4*t^5 + 5*t^4 - 6*t^3 + 5*t^2 - 2*t + 1)*x^3 + (-t^8 + 2*t^7 - 5*t^6 + 6*t^5 - 5*t^4 + 4*t^3 - 2*t^2)*x^2 + (2*t^8 - 2*t^7 + 3*t^6 - 2*t^5 + t^4)*x - t^8, 'reducible', 4]
+[(-2, 4, 5, 5), x^5 + (-2*t + 1)*x^4 + (-t^5 + t^2 - 2*t)*x^3 + (2*t^6 - t^5 + t^2)*x^2 + (-t^7 + 2*t^6)*x - t^7, 'reducible', 4]
+[(-5, 4, -2, -4, -1, -3), x^5 + (-t^2 + 2*t)*x^4 + (-2*t^3 + 2*t^2)*x^3 + (-2*t^4 + 2*t^3)*x^2 + (-2*t^5 + t^4)*x - t^6, 'reducible', 2]
+[(2, 4, 2, 4, -2, -1, -2, -5), x^5 + (-t^3 + t^2 - 3*t + 2)*x^4 + (2*t^4 - 4*t^3 + 4*t^2 - 5*t + 1)*x^3 + (-t^5 + 5*t^4 - 4*t^3 + 4*t^2 - 2*t)*x^2 + (-2*t^5 + 3*t^4 - t^3 + t^2)*x - t^5, 'reducible', 4]
+[(2, 5), x^5 + (2*t - 3)*x^4 + (t^2 - 6*t + 3)*x^3 + (-3*t^2 + 6*t - 1)*x^2 + (3*t^2 - 2*t)*x - t^2, 'reducible', 2]
+[(1, -4, -1, -2, -5, -4, 5, 5, 1, 2), x^5 + (t^3 - 3*t^2 + t)*x^4 + (-3*t^5 + 4*t^4 - 3*t^3)*x^3 + (3*t^7 - 4*t^6 + 3*t^5)*x^2 + (-t^9 + 3*t^8 - t^7)*x - t^10, 'reducible', 3]
+[(1, 1, 1, 1, 3, -1, 5, -3, 1, 3), x^5 + (-t^4 + 2*t - 2)*x^4 + (-2*t^5 + 2*t^4 + t^2 - 4*t + 1)*x^3 + (-t^6 + 4*t^5 - t^4 - 2*t^2 + 2*t)*x^2 + (2*t^6 - 2*t^5 + t^2)*x - t^6, 'reducible', 3]
+[(-2, -1, 2, 4, -1, -1, -1, 4), x^5 + (-t^7 - 2*t^5 + t^3)*x^4 + (2*t^12 - 2*t^8 + t^6)*x^3 + (-t^17 + 2*t^15 - 2*t^11)*x^2 + (-t^20 + 2*t^18 + t^16)*x - t^23, 'reducible', 2]
+[(3, 3, -1, 3, -1, 2, 1, 1), x^5 + (t^3 - 3*t)*x^4 + (t^6 - 3*t^4 + 3*t^2)*x^3 + (-3*t^7 + 3*t^5 - t^3)*x^2 + (3*t^8 - t^6)*x - t^9, 'reducible', 1]
+[(-3, 1, 3, 2, -4, -4, 2, -4), x^5 + (-2*t^3 + 1)*x^4 + (-t^9 + t^6 - 2*t^3)*x^3 + (2*t^12 - t^9 + t^6)*x^2 + (-t^15 + 2*t^12)*x - t^15, 'reducible', 4]
+[(5, 4, 4, 4, -2, -4, 5, 5), x^5 + (t^5 - t^4 + t^3 - t^2 - 2*t + 1)*x^4 + (-t^7 - 2*t^6 + 3*t^5 - 3*t^4 + 3*t^3 - 2*t)*x^3 + (2*t^8 - 3*t^6 + 3*t^5 - 3*t^4 + 2*t^3 + t^2)*x^2 + (-t^9 + 2*t^8 + t^7 - t^6 + t^5 - t^4)*x - t^9, 'reducible', 4]
+[(5, -2, -2, -3, 4, -3, 2, -4, -5, 2), x^5 + (-3*t^3 + t^2)*x^4 + (3*t^6 - 3*t^5 + t^4)*x^3 + (-t^9 + 3*t^8 - 3*t^7)*x^2 + (-t^11 + 3*t^10)*x - t^13, 'reducible', 1]
+[(-5, 3, 3, -1, -1, -5), x^5 + (-t^4 - 2*t^2 - 2)*x^4 + (2*t^6 + 3*t^4 + 4*t^2 + 1)*x^3 + (-t^8 - 4*t^6 - 3*t^4 - 2*t^2)*x^2 + (2*t^8 + 2*t^6 + t^4)*x - t^8, 'reducible', 3]
+[(-4, 2, 1, 4, 1, 5, -3, -2), x^5 + (-t^4 + t^3 - 2*t^2 + t)*x^4 + (-t^7 + 2*t^6 - 3*t^5 + 2*t^4 - 2*t^3)*x^3 + (2*t^9 - 2*t^8 + 3*t^7 - 2*t^6 + t^5)*x^2 + (-t^11 + 2*t^10 - t^9 + t^8)*x - t^12, 'reducible', 4]
+[(2, -1, 5, -4, -5, 2), x^5 + (-t^3 + t^2 - 3*t + 2)*x^4 + (2*t^4 - 4*t^3 + 4*t^2 - 5*t + 1)*x^3 + (-t^5 + 5*t^4 - 4*t^3 + 4*t^2 - 2*t)*x^2 + (-2*t^5 + 3*t^4 - t^3 + t^2)*x - t^5, 'reducible', 4]
+[(-3, -5, -4, 2, 4, -5, -2, -1), x^5 + (-2*t^2 + 2*t - 1)*x^4 + (t^4 - 4*t^3 + 3*t^2 - 2*t)*x^3 + (2*t^5 - 3*t^4 + 4*t^3 - t^2)*x^2 + (t^6 - 2*t^5 + 2*t^4)*x - t^6, 'reducible', 3]
+[(2, -4, 5, 4, -2, -2), x^5 + (t^2 - 3*t + 1)*x^4 + (-3*t^3 + 4*t^2 - 3*t)*x^3 + (3*t^4 - 4*t^3 + 3*t^2)*x^2 + (-t^5 + 3*t^4 - t^3)*x - t^5, 'reducible', 3]
+[(4, 2, 4, 3, -1, -3, 1, -5), x^5 + (-t^3 + 2*t^2 - 3*t + 1)*x^4 + (-t^5 + 3*t^4 - 6*t^3 + 4*t^2 - 2*t)*x^3 + (2*t^6 - 4*t^5 + 6*t^4 - 3*t^3 + t^2)*x^2 + (-t^7 + 3*t^6 - 2*t^5 + t^4)*x - t^7, 'reducible', 4]
+[(-1, -4), x^5 + (-3*t + 2)*x^4 + (3*t^2 - 6*t + 1)*x^3 + (-t^3 + 6*t^2 - 3*t)*x^2 + (-2*t^3 + 3*t^2)*x - t^3, 'reducible', 2]
+[(4, -1, 4, -5, -2, -5, -5, 2), x^5 + (-t^5 + t^4 - 4*t^3 + 3*t^2 - t + 1)*x^4 + (2*t^8 - 3*t^7 + 6*t^6 - 9*t^5 + 4*t^4 - 3*t^3 + t^2)*x^3 + (-t^11 + 3*t^10 - 4*t^9 + 9*t^8 - 6*t^7 + 3*t^6 - 2*t^5)*x^2 + (-t^13 + t^12 - 3*t^11 + 4*t^10 - t^9 + t^8)*x - t^13, 'reducible', 4]
+[(4, -3, 4, 5, 5, 3), x^5 + (-t^3 + 2*t^2 - t - 2)*x^4 + (3*t^3 - 6*t^2 + 3*t + 1)*x^3 + (-t^4 - 3*t^3 + 6*t^2 - 3*t)*x^2 + (2*t^4 + t^3 - 2*t^2 + t)*x - t^4, 'reducible', 2]
+[(-1, 5, 1, -5, -1, -2, -4, 2), x^5 + (-3*t + 2)*x^4 + (3*t^2 - 6*t + 1)*x^3 + (-t^3 + 6*t^2 - 3*t)*x^2 + (-2*t^3 + 3*t^2)*x - t^3, 'reducible', 2]
+[(-1, 2, 1, 2, 2, 1), x^5 + (t^2 - 3)*x^4 + (t^4 - 3*t^2 + 3)*x^3 + (-3*t^4 + 3*t^2 - 1)*x^2 + (3*t^4 - t^2)*x - t^4, 'reducible', 1]
+[(-3, -1, 4, 1, -4, -5, 2, 5), x^5 + (t^2 - 4*t + 1)*x^4 + (-3*t^3 + 7*t^2 - 3*t)*x^3 + (3*t^4 - 7*t^3 + 3*t^2)*x^2 + (-t^5 + 4*t^4 - t^3)*x - t^5, 'reducible', 3]
+[(1, -3, 1, 3, 4, -5, -4, 3), x^5 + (-t^4 + t^3 - 3*t^2 + t)*x^4 + (-t^7 + 3*t^6 - 3*t^5 + 4*t^4 - 2*t^3)*x^3 + (2*t^9 - 4*t^8 + 3*t^7 - 3*t^6 + t^5)*x^2 + (-t^11 + 3*t^10 - t^9 + t^8)*x - t^12, 'reducible', 4]
+[(5, -3, 1, -2, -5, -1, -2, -1), x^5 - 2*t^4*x^4 + t^8*x^3 - t^8*x^2 + 2*t^12*x - t^16, 'reducible', 2]
+[(2, -3, -1, -2, 5, 2, 5, -2), x^5 + (-t^4 - 2*t^2 + 2*t)*x^4 + (2*t^6 - 2*t^5 + t^4 - 4*t^3 + t^2)*x^3 + (-t^8 + 4*t^7 - t^6 + 2*t^5 - 2*t^4)*x^2 + (-2*t^9 + 2*t^8 + t^6)*x - t^10, 'reducible', 3]
+[(1, 4, 5, -3, -4, -5, -1, 5), x^5 + (t^2 - 3*t + 1)*x^4 + (-3*t^3 + 4*t^2 - 3*t)*x^3 + (3*t^4 - 4*t^3 + 3*t^2)*x^2 + (-t^5 + 3*t^4 - t^3)*x - t^5, 'reducible', 3]
+[(1, 2, 1, 2, 2, -3), x^5 + (-t^4 + t^3 - 3*t + 1)*x^4 + (-t^7 + t^6 + 2*t^5 - 3*t^4 + t^3 + 3*t^2 - 2*t)*x^3 + (2*t^8 - 3*t^7 - t^6 + 3*t^5 - 2*t^4 - t^3 + t^2)*x^2 + (-t^9 + 3*t^8 - t^6 + t^5)*x - t^9, 'reducible', 4]
+[(-2, -5, 2, -3, 5, -4, -3, -5), x^5 - 2*t^2*x^4 + t^4*x^3 - t^2*x^2 + 2*t^4*x - t^6, 'reducible', 2]
+[(-3, -1, -5, 1, 1, -5, -3, 4, 5, -1), x^5 + (t^3 - 4*t^2 + 2*t - 1)*x^4 + (-2*t^5 + 6*t^4 - 6*t^3 + 4*t^2 - t)*x^3 + (t^7 - 4*t^6 + 6*t^5 - 6*t^4 + 2*t^3)*x^2 + (t^8 - 2*t^7 + 4*t^6 - t^5)*x - t^8, 'reducible', 4]
+[(3, -5, -4, 5, 1, -3, -1, 4, 5, 5), x^5 + (t^4 - 3*t^3 + t^2)*x^4 + (-t^9 + t^8 - 3*t^7 + 3*t^6 - 2*t^5)*x^3 + (2*t^12 - 3*t^11 + 3*t^10 - t^9 + t^8)*x^2 + (-t^15 + 3*t^14 - t^13)*x - t^17, 'reducible', 4]
+[(2, -4, 2, 4, 4, -3), x^5 + (-t^3 + 2*t^2 - 4*t + 1)*x^4 + (-t^5 + 4*t^4 - 6*t^3 + 6*t^2 - 2*t)*x^3 + (2*t^6 - 6*t^5 + 6*t^4 - 4*t^3 + t^2)*x^2 + (-t^7 + 4*t^6 - 2*t^5 + t^4)*x - t^7, 'reducible', 4]
+[(-3, -3, 1, 4, 5, -1, 4, 4), x^5 + (t^4 - 3*t^2 + t - 1)*x^4 + (t^8 - t^7 - t^6 + 2*t^4 - 2*t^3 + 2*t^2)*x^3 + (-2*t^10 + 2*t^9 - 2*t^8 + t^6 + t^5 - t^4)*x^2 + (t^12 - t^11 + 3*t^10 - t^8)*x - t^12, 'reducible', 2]
+[(2, 1, -4, 1, -2, 4, 5, -4), x^5 + (-t^3 + t^2 - 3*t + 1)*x^4 + (-t^5 + 3*t^4 - 3*t^3 + 4*t^2 - 2*t)*x^3 + (2*t^6 - 4*t^5 + 3*t^4 - 3*t^3 + t^2)*x^2 + (-t^7 + 3*t^6 - t^5 + t^4)*x - t^7, 'reducible', 4]
+
+%%%
+
+Enter the number of strands: 6
+Enter the length of the word: 20
+Enter the number of trials: 100
+
+The reducible braid (3, 1, -3, -2, -5, -2, 1, 1, 1, 1, 4, 3, -1, -4, 3, 1, 1, -3, 4, 5) does not have all real eigenvalues
+The reducible braid (-3, -2, 3, 2, 3, 5, -2, -4, -5, -5, 4, -2) does not have all real eigenvalues
+The pA braid (-4, 5, -2, -5, 1, 4, 5, -4, -5, 2, 1, 1, 1, 3, 4, -1, -2, 5) does not have all real eigenvalues
+The pA braid (-1, -2, 5, 4, 3, -2, 1, -4, -4, 2) does not have all real eigenvalues
+The pA braid (4, -1, -2, 1, 5, -4, -2, -3, 4, 5, 4, -3, -4, -2, -1, 5) does not have all real eigenvalues
+The pA braid (2, 4, 4, 3, 4, -5, 1, 4, -1, -5, -4, 1) does not have all real eigenvalues
+Not all elements in the USS preserve a family of circles!!!The pA braid (-2, 5, 3, -4, 5, 3, -4, -4, -3, 5, 4, 3, 1, -4) does not have all real eigenvalues
+The pA braid (4, 3, 3, -1, -2, -5, 1, 5, 4, -3, 5, -4, -3, 5, -1, 5) does not have all real eigenvalues
+The pA braid (1, -3, -4, -2, -1, 3, 3, 2, 4, 2, 2, -5, 3, 3, -4, 5) does not have all real eigenvalues
+The pA braid (-2, -5, 4, 2, 5, -2, -1, 5, -3, 4) does not have all real eigenvalues
+The pA braid (-2, -3, -5, -1, -1, -3, -2, -1, 3, -4, -4, -1, -5, 1, -3, 1, -5, 1, 3, 2) does not have all real eigenvalues
+The pA braid (4, -5, -4, 5, -3, -2, -1, -1, -3, -1, -4, -4, 5, -2, -3, -3, 1, 4, -1, -1) does not have all real eigenvalues
+The reducible braid (-2, -5, -1, 2, -4, -1, -3, 5, -3, -3, -2, -4, 2, -3, 1, 2, -1, -4) does not have all real eigenvalues
+The pA braid (-5, -4, -5, -2, 1, -2, -3, -4, -2, -3, -1, 2, 3, 5, 1, 3, 3, 3) does not have all real eigenvalues
+The reducible braid (1, -3, 5, -1, 3, -5, -3, -4, 5, -4, -4, -3, -1, 3) does not have all real eigenvalues
+The pA braid (4, -3, -5, -4, -1, 5, -3, -5, -4, 5, 2, -5, -3, -2, -1, -4, -4, -2) does not have all real eigenvalues
+The pA braid (3, 4, -5, 1, -4, 1, -2, 5, 5, -3, -4, 5, 5, 5) does not have all real eigenvalues
+The pA braid (5, 2, -4, 2, 2, -4, 1, -5, 1, 3, 4, -5, -2, -5, 1, 5, 3, 1) does not have all real eigenvalues
+The reducible braid (-1, 3, -4, -2, -4, 2, 4, 5, 5, -1, 2, 2, 5, -3, 1, 3, 1, 4) does not have all real eigenvalues
+The pA braid (3, -2, 3, 1, 5, 4, 4, -1, -4, 1, 3, 2, 2, 4, -2, -5, 3, 3, -4, -1) does not have all real eigenvalues
+The pA braid (-5, 3, 3, 5, 3, -4, -1, 2, -3, 2, -1, -5, 3, 5, 5, 5, 2, 1) does not have all real eigenvalues
+The pA braid (-1, 4, 1, -5, -4, -3, -3, -2, -3, -2, -3, -3, 1, 2, -1, 2, 1, 4, 1, -2) does not have all real eigenvalues
+The pA braid (-3, 4, -1, -2, 3, -1, -2, -2, -5, -4, -1, 4, 1, 3, 5, 5, -4, -2) does not have all real eigenvalues
+The pA braid (5, 2, -5, -4, 5, 3, -1, 4, -3, 1, -4, 1, 3, -4, 5, 4) does not have all real eigenvalues
+The pA braid (3, -1, -2, -3, 4, 3, 1, 5, 3, -2, -2, 5, 5, -1) does not have all real eigenvalues
+The pA braid (-3, 1, 2, 2, -4, -1, -3, 4, -2, -1, -2, -4, 1, -5, -1, -5, 3, 5) does not have all real eigenvalues
+The pA braid (-4, -5, 2, -3, -4, 3, 5, 1, 4, -3, 2, 3, -5, 2) does not have all real eigenvalues
+The reducible braid (-3, -1, -3, -1, -4, 2, 4, -5, -5, -1, -5, -3, -1, -3, 2, 1, -5, -5, -1, 5) does not have all real eigenvalues
+The pA braid (-3, 5, 4, -1, -4, -1, -4, -3, -2, 5, 2, 5, -1, -2, -4, -2) does not have all real eigenvalues
+The pA braid (-3, 5, -2, -2, 3, 2, -1, -4, -1, 2, 3, 5, -2, 1) does not have all real eigenvalues
+The pA braid (4, -2, -3, -5, -1, -1, -5, -1, 5, 4, 4, -2, -1, -4, 3, -2, 4, 4) does not have all real eigenvalues
+The pA braid (5, 1, 1, 4, 5, -4, -3, -2) does not have all real eigenvalues
+The reducible braid (3, 1, 4, 5, -4, -5, 1, -5, -4, -5, -4, -1, 4, -5) does not have all real eigenvalues
+The reducible braid (-4, 1, 4, 3, -4, -4, 1, -5, 1, -4, -1, 5, 5, -1, -5, 1, -4, 5, -3, -2) does not have all real eigenvalues
+The pA braid (4, 5, 2, 5, 2, 1, -4, 5, -3, -2, -3, -1, 2, -1, -4, 3, 4, 2) does not have all real eigenvalues
+The pA braid (2, 2, -5, 2, -1, 2, -1, 5, -3, 1, -4, -1, -5, -4, -3, -4, 5, -4) does not have all real eigenvalues
+The pA braid (-4, -2, -1, 5, 3, -5, -3, 5, 1, -3, 1, 5, 2, 4, -5, -3, -1, 5) does not have all real eigenvalues
+The pA braid (-2, 4, 2, -4, -1, -5, 4, -2, -3, -4, 2, 1, 2, 1, 4, -5) does not have all real eigenvalues
+The reducible braid (4, -2, -5, -1, 5, 3, -1, -1, -5, 1, -2, -4, 2, 4, -1, 5, -4, -4) does not have all real eigenvalues
+The pA braid (1, 2, -5, 3, 4, -1, -2, 4, -2, -3, -4, -5, -4, -2) does not have all real eigenvalues
+The reducible braid (-1, -1, -5, -3, -4, -5, -4, 2, 4, 1, 2, -1, -2, -5, 1, -3) does not have all real eigenvalues
+The pA braid (-1, 5, -3, -2, -5, -4, -1, -4, 3, 3, 3, 2, -3, 5, -4, 2) does not have all real eigenvalues
+The reducible braid (-3, -3, -5, -1, -1, -5, 1, 1, 3, 5) does not have all real eigenvalues
+The pA braid (5, -3, -5, -4, 5, -3, 2, -4, 1, 2, 1, 5, -4, 2, 2, -5, -1, -5, 1, -5) does not have all real eigenvalues
+The pA braid (1, -5, -3, 1, -4, 2, 3, 5, 1, 5, 2, 1, 2, -3, 4, 4, 2, 3) does not have all real eigenvalues
+The pA braid (-3, 2, 4, 2, 5, 1, 4, -3, -2, 3, -5, -5, -2, 5, -1, -3, 5, 4) does not have all real eigenvalues
+The pA braid (-3, -3, -1, -4, 3, 2, -1, -3, 2, -1, 4, -1, 3, 5, 4, 2, -4, -4, 2, 4) does not have all real eigenvalues
+
+There are 73 pA braids of which 37 have real eigenvalues
+There are 0 periodic braids of which 0 have real eigenvalues
+There are 27 reducible braids of which 16 have real eigenvalues
+
+There are 5 braids with repeated eigenvalues
+[(-3, -2, 3, 2, 3, 5, -2, -4, -5, -5, 4, -2), x^5 + (t^3 - 3*t^2 + 2*t - 1)*x^4 + (-2*t^5 + 4*t^4 - 6*t^3 + 3*t^2 - t)*x^3 + (t^7 - 3*t^6 + 6*t^5 - 4*t^4 + 2*t^3)*x^2 + (t^8 - 2*t^7 + 3*t^6 - t^5)*x - t^8, 'reducible', 4]
+[(-1, 3, -4, -2, -4, 2, 4, 5, 5, -1, 2, 2, 5, -3, 1, 3, 1, 4), x^5 + (t^3 - t^2 - 2*t)*x^4 + (t^7 - t^6 - 2*t^4 + 2*t^3 + t^2)*x^3 + (-t^9 - 2*t^8 + 2*t^7 + t^5 - t^4)*x^2 + (2*t^10 + t^9 - t^8)*x - t^11, 'reducible', 2]
+[(-3, -1, -3, -1, -4, 2, 4, -5, -5, -1, -5, -3, -1, -3, 2, 1, -5, -5, -1, 5), x^5 + (-t^6 + 4*t^5 - 9*t^4 + 8*t^3 - 8*t^2 + 4*t - 3)*x^4 + (t^10 - 4*t^9 + 8*t^8 - 8*t^7 + 11*t^6 - 12*t^5 + 19*t^4 - 16*t^3 + 16*t^2 - 8*t + 3)*x^3 + (-3*t^10 + 8*t^9 - 16*t^8 + 16*t^7 - 19*t^6 + 12*t^5 - 11*t^4 + 8*t^3 - 8*t^2 + 4*t - 1)*x^2 + (3*t^10 - 4*t^9 + 8*t^8 - 8*t^7 + 9*t^6 - 4*t^5 + t^4)*x - t^10, 'reducible', 4]
+[(-1, -1, -5, -3, -4, -5, -4, 2, 4, 1, 2, -1, -2, -5, 1, -3), x^5 + (-2*t^3 - t^2 + t)*x^4 + (t^6 + 2*t^5 - 2*t^4 - t^2 + t)*x^3 + (-t^8 + t^7 + 2*t^5 - 2*t^4 - t^3)*x^2 + (-t^8 + t^7 + 2*t^6)*x - t^9, 'reducible', 2]
+[(-3, -3, -5, -1, -1, -5, 1, 1, 3, 5), x^5 + (-3*t + 2)*x^4 + (3*t^2 - 6*t + 1)*x^3 + (-t^3 + 6*t^2 - 3*t)*x^2 + (-2*t^3 + 3*t^2)*x - t^3, 'reducible', 2]
+
+%%%
+
+Enter the number of strands: 6
+Enter the length of the word: 30
+Enter the number of trials: 100
+
+The pA braid (2, 4, -3, -2, -3, 4, -5, 2, -3, -1, -3, -4, 5, -2, 4, 5, -1, -4, -1, -3, 5, -4, -3, 5, 2, 5, -2, -4) does not have all real eigenvalues
+The pA braid (1, -5, 2, 4, -1, -5, -4, 5, -3, 2, -3, -4, 5, 2, -4, -5, -5, 4, 3, 4, -5, -3, -5, -3, -2, 3, -1, -1, 5, -1) does not have all real eigenvalues
+The pA braid (-5, 2, -3, -4, 1, 3, -4, -4, 3, -2, -3, 4, 1, -4, 3, 5, 4, -1, -4, 1, 5, -3, -1, 2, -4, -2, 3, -2) does not have all real eigenvalues
+The pA braid (-3, -3, 1, -5, 2, 3, 3, -4, -3, -2, -5, 1, 3, -1, 4, 2) does not have all real eigenvalues
+The pA braid (-5, 2, -1, -1, -5, -2, -1, -1, -3, -2, -2, -2, -1, -5, 4, -5, -4, -5, -4, 1, -3, 4, -3, -2, -2, -2, 5, 4, -1, -4) does not have all real eigenvalues
+The reducible braid (1, -5, -2, 5, -2, 5, 2, -1, -2, -3, 1, 3, -1, -4) does not have all real eigenvalues
+The pA braid (2, -1, -5, 3, 4, 5, -1, -1, -4, -3, -4, -1, -2, -1, 2, -1, -2, 5, -3, -5, -1, -3, -3, 5, -1, -1, -4, 2) does not have all real eigenvalues
+The reducible braid (5, -2, -4, 3, 5, 2, 1, -2, -3, -1, 2, -1, -3, -5, -2, -3, 1, 2, -3, 4, 1, -4, 2, 2, 4, 2, 1, -5) does not have all real eigenvalues
+The pA braid (-3, 1, -2, -1, -4, -1, 5, -3, -4, -2, -3, -1, 2, 2, -4, -5, -1, -1, -5, -5) does not have all real eigenvalues
+The pA braid (-5, 1, -4, -2, -3, 1, -3, 5, -3, -5, 1, 1, 3, 2, 2, 5, -2, 1, 3, -1, 5, 4, 4, 5, 2, 1, 2, 2) does not have all real eigenvalues
+The pA braid (-5, -4, -2, 1, 1, 1, -5, -2, -5, -1, 3, 2, 3, -4, 3, 3, 3, -2, -1, -5, -4, -4) does not have all real eigenvalues
+The pA braid (2, -3, 1, 5, 3, -5, 2, 4, -1, -3, 5, -4, 1, 3, -2, 4, -3, -3, -5, 1, 1, -3, -1, -3) does not have all real eigenvalues
+The pA braid (-5, -3, -2, 1, 4, 3, -4, 3, -4, 3, 5, -3, 5, 1, -3, -4, 1, -5, -2, -3, -4, 1, 4, 2, -4, 3, -5, -3) does not have all real eigenvalues
+The pA braid (4, -1, -3, -1, 3, -2, 1, 4, 2, 5, 5, 3, 2, 4, 2, 1, 4, -1, 4, -2, -5, 2, -4, 5, 4, -5) does not have all real eigenvalues
+The pA braid (-4, 2, -3, 5, 2, 1, -4, 3, 5, 5, 1, -2, -1, -3, 4, 1, 3, 2, -1, 4, 1, -4, -1, 3, -5, -2) does not have all real eigenvalues
+The pA braid (4, -2, -1, -5, 2, -1, -4, -1, 3, -2, 5, 2, 5, 2, 1, -4, -1, 5, 3, 1, -2, 5) does not have all real eigenvalues
+The pA braid (-1, -2, 1, 3, 5, 3, 2, 4, -2, 3, 5, -1, -5, -2, 3, -1, -4, -3, 2, 4, 4, 4) does not have all real eigenvalues
+The pA braid (5, 5, 5, -1, -3, 5, 3, -5, -4, -2, 4, 1, -4, -4, -4, -3, -3, -3, -3, -4, -3, -4, -1, 4) does not have all real eigenvalues
+The pA braid (1, 3, 3, 1, -4, 2, 5, -1, 5, -4, 3, 2, 3, 1, 1, -3, 2, 1, 1, 1, -2, 1, -2, -4) does not have all real eigenvalues
+The pA braid (-3, -4, -1, -3, -2, 5, 5, -3, -3, 5, 3, -4, -1, 2, -1, -2, 4, 5, 5, 3, -4, -5, -1, -2) does not have all real eigenvalues
+The pA braid (4, -1, -1, -1, -3, 4, 5, 3, 3, 3, 4, 2, 3, 3, 4, 1, -4, -2, 3, 5, -3, 2, 5, 5) does not have all real eigenvalues
+The pA braid (-2, -2, 5, -3, -2, -2, 4, 2, 1, 2, -3, 5, 2, 1, 4, -3, 2, -1, -2, -4, 2, -4, -5, -3, -3, 5, 1, 3, 2, -4) does not have all real eigenvalues
+The pA braid (-3, -5, 1, 4, -1, -2, -4, 1, -2, 4, -3, 1, 3, 3, -4, 5, 5, 1, 2, 4, 3, -5, -2, 4, 2, 5) does not have all real eigenvalues
+The pA braid (-3, 4, -5, -3, -1, -4, -3, -1, 3, -5, -5, 3, -2, -2, -2, -4, 1, -4, 5, -3, 2, 5, -3, -2, -5, -5, -4, -5) does not have all real eigenvalues
+The pA braid (4, 5, -1, -4, 2, 2, 2, -1, 4, -1, -3, 1, -3, -4, 2, 2, 1, -2, 4, -1, 2, 1, -2, -3) does not have all real eigenvalues
+The pA braid (4, 1, 2, 3, 1, 1, 1, -4, -4, -4, -4, 2, 3, 5, 3, -2, -1, -3, 1, -4, 5, -4, 5, -3, 4, 3) does not have all real eigenvalues
+The pA braid (3, 3, 1, 4, -5, -3, -2, 1, 1, -2, -5, -1, -3, 2, -1, -2, 5, -4, -1, 4, 3, 4, -2, -4, 2, 1) does not have all real eigenvalues
+The pA braid (4, -3, 4, 2, 5, -2, -2, 5, -1, 4, -1, -4, -1, -5, -2, -1) does not have all real eigenvalues
+The pA braid (2, 2, 5, 5, 3, 1, 3, 1, 3, 4, 2, 2, -1, 2, -3, -4, 2, 2, -5, 1, 4, 1) does not have all real eigenvalues
+The pA braid (4, -1, -3, 2, 5, -3, 1, -2, 3, -4, 1, -5, 4, 2, -3, -5, -3, 1, -3, -4, 3, 3, 5, 3) does not have all real eigenvalues
+The pA braid (2, -1, -3, 4, -3, 5, -3, 5, 4, -1, -5, -4, -4, -3, -4, -4, -5, -5, -1, 2, 4, -5) does not have all real eigenvalues
+The pA braid (3, 3, 3, 1, -2, 1, 3, -2, -5, 2, 1, -5, -3, -5, 2, -5, 3, 4, -2, -4, -3, -4) does not have all real eigenvalues
+The pA braid (-3, -4, -4, 5, -1, -2, 4, -1, 4, 3, 4, -1, 2, 4, 5, 5, -2, 4, -5, -1, -2, 1, -4, 2, 2, -5, -2, -1) does not have all real eigenvalues
+The pA braid (-5, -3, 4, -3, -1, -1, -4, -1, -5, -1, 2, -4, -1, -1, 2, -1, -2, 3, 4, 2) does not have all real eigenvalues
+The reducible braid (-4, 5, 4, 2, 5, 5, 4, -5, -2, 5, -2, 1, -5, 4, 5, -1, -4, -4, 2, -4, 1, -5, 2, 5) does not have all real eigenvalues
+The pA braid (-2, -5, 4, 3, 5, -1, 3, -2, 1, -2, 4, -5, 3, -4, -5, -4, -4, 1, -2, 5, 1, -3, 2, -3, -5, -4) does not have all real eigenvalues
+The reducible braid (4, 4, 3, -4, 3, 5, -3, -1, -3, -4, -5, 1, 5, 3, 4, -2, 5, 2, -1, -3, -5, 4) does not have all real eigenvalues
+The pA braid (-3, -5, 1, 4, -5, 1, 5, 1, 5, 3, -4, -3, 2, 4, -3, 1, -3, 2, 2, 5, -3, 5) does not have all real eigenvalues
+The pA braid (1, -4, -3, -1, 2, -4, 2, -5, 2, -3, -4, -4, -4, 3, -1, -1, 2, -4, -5, -2, -4, 2, 1, 3, 2, 3) does not have all real eigenvalues
+The reducible braid (4, -5, -1, -1, 5, -3, 5, -3, -5, -4, -1, -5, -1, 5, 5, 4, -1, 3, -1, 5) does not have all real eigenvalues
+The reducible braid (5, 5, 3, 1, -2, -5, -3, 5, -2, -5, -5, 4, -3, -4, 3, 4, 5, 5, 3, 5, -3, -1, -4, -3) does not have all real eigenvalues
+The pA braid (1, 2, -3, -4, 5, 2, 5, -4, 1, -3, -4, -1, 3, 3, 3, 2, -4, 2, -5, 3, -2, -3, 4, -2) does not have all real eigenvalues
+The pA braid (-5, 1, -2, 5, 2, 2, -3, -5, -2, -4, -3, -1, -1, -3, 2, 2, -4, -1, -1, 2, -3, 4, 5, 5, 3, 5) does not have all real eigenvalues
+The pA braid (-5, -2, 5, -3, 1, 5, -3, 2, -4, 1, 3, -1, 4, -1, -1, -2, -2, -5, 2, 1, -5, -3, -4, 1, 2, 2) does not have all real eigenvalues
+The pA braid (1, -2, 4, 4, -3, -3, -2, 1, -4, 3, -1, 5, 5, -1, -2, 3, -4, -5, -4, -2, -5, -4, -4, 1, -3, -2, -2, -2) does not have all real eigenvalues
+The pA braid (-4, -3, 2, 2, -1, -5, 3, 2, 3, -1, -4, 5, 5, -3, 5, -2, -2, 5, -1, -2, 4, 2, 1, 1, 3, 5) does not have all real eigenvalues
+The pA braid (-4, 2, 4, -3, 2, 1, 5, -3, 1, -2, 4, 3, 3, 1, 2, -5, 2, 1, 3, 1, 2, -1, -5, 4) does not have all real eigenvalues
+The pA braid (-5, 2, 1, -2, -4, 2, -1, 3, -1, -1, -5, -4, 3, 5, 1, 1, -3, 1, 2, 5, -2, 1, 3, -1) does not have all real eigenvalues
+The reducible braid (-4, -2, 4, 5, 2, -3, -4, -1, -2, 1, -2, -5, 1, 5, 3, 4, 3, 2, 2, 1, -5, 3) does not have all real eigenvalues
+The pA braid (-2, -1, -4, 3, 3, -5, 4, -5, -5, -4, 5, -4, -1, 5, -4, -2, 4, -5, -3, -2, -4, -1) does not have all real eigenvalues
+
+There are 85 pA braids of which 42 have real eigenvalues
+There are 0 periodic braids of which 0 have real eigenvalues
+There are 15 reducible braids of which 8 have real eigenvalues
+
+There are 2 braids with repeated eigenvalues
+[(5, -2, -4, 3, 5, 2, 1, -2, -3, -1, 2, -1, -3, -5, -2, -3, 1, 2, -3, 4, 1, -4, 2, 2, 4, 2, 1, -5), x^5 + (2*t^7 - 3*t^6 + 4*t^5 - 5*t^4 + t^3 + t^2 - t)*x^4 + (t^13 - t^12 - 5*t^11 + 9*t^10 - 12*t^9 + 10*t^8 - 4*t^7 - 2*t^6 + 2*t^5)*x^3 + (-2*t^17 + 2*t^16 + 4*t^15 - 10*t^14 + 12*t^13 - 9*t^12 + 5*t^11 + t^10 - t^9)*x^2 + (t^21 - t^20 - t^19 + 5*t^18 - 4*t^17 + 3*t^16 - 2*t^15)*x - t^22, 'reducible', 4]
+[(4, -5, -1, -1, 5, -3, 5, -3, -5, -4, -1, -5, -1, 5, 5, 4, -1, 3, -1, 5), x^5 + (t^7 - 2*t^6 - 1)*x^4 + (t^14 - 2*t^13 + t^12 - t^7 + 2*t^6)*x^3 + (-2*t^20 + t^19 - t^14 + 2*t^13 - t^12)*x^2 + (t^26 + 2*t^20 - t^19)*x - t^26, 'reducible', 2]
+
+%%%
+
+Enter the number of strands: 6
+Enter the length of the word: 40
+Enter the number of trials: 100
+
+The pA braid (-5, 1, 1, -4, 1, 4, 5, 3, -2, -3, 2, 2, 4, 1, 4, 5, 5, 4, -2, 3, 5, 5, -3, -2, 4, 1) does not have all real eigenvalues
+The pA braid (4, 1, 1, 2, 2, -1, 4, 2, -3, -5, -1, -2, -4, 1, 4, 2, -4, -5, 1, 5, 5, -3, 4, -2, 4, 2, 2, 2, 2, 4, -1, 4, 4, -2, 1, -4, -5, -4) does not have all real eigenvalues
+The pA braid (1, 4, 2, 2, -4, -3, 2, -1, 2, -1, 3, -5, 1, 2, -1, -4, -2, 5, 4, -2, -1, -1, 3, 2, -3, 1, 1, -5, 2, -5, 1, 1) does not have all real eigenvalues
+The pA braid (-4, -2, -1, 5, -3, 1, 2, -3, -3, 1, -4, -3, 1, 4, -1, -2, -3, -1, 5, -4, 3, -1, 4, 1, 2, -3, 2, -3, 2, 4, 4, 3, 4, 4) does not have all real eigenvalues
+The pA braid (-4, 1, 1, -3, -1, 3, 2, 3, 5, 5, 3, -5, -4, -3, -5, -5, 1, 2, 2, -5, 4, 5, -3, -3, -4, 5, -3, -5, 1, 3, -1, -1) does not have all real eigenvalues
+The pA braid (4, -5, -4, -4, 2, -5, -1, -5, -5, -4, 3, 3, 2, 4, 3, 1, -4, 5, 3, 4, 4, -5, 3, 1, 5, -4, 1, -2, 4, 1, -3, 1, -3, -1, 5, -2, -5, 1) does not have all real eigenvalues
+The pA braid (1, 2, 5, 4, -1, 3, 4, -5, 1, -2, -2, -2, 4, -3, -1, -3, -2, -4, 1, 1, -5, -3, -1, 5, 5, 1, 2, -4, -5, 4) does not have all real eigenvalues
+The pA braid (3, -1, -2, -5, 4, 4, -3, -1, -1, 2, 4, 4, 1, -3, 5, -3, -1, -3, 5, -3, -5, 1, -4, -3, -4, 2, 4, 5) does not have all real eigenvalues
+The pA braid (-5, -4, -4, -5, -1, 5, 3, -4, -4, 5, -4, -1, 3, -5, -3, 2, 1, 5, 2, -4, 3, 4, -1, -3, 5, -2) does not have all real eigenvalues
+The pA braid (1, 5, 1, -5, -4, 3, 1, 3, -5, 3, 1, 1, 3, 4, -1, -1, -3, -2, -3, -2, -3, 1, 2, -3, 5, 4, -3, -2, 4, 5, -4, 1, 5, -4) does not have all real eigenvalues
+The pA braid (-5, -1, -3, -5, -3, 4, 1, 3, 2, -5, -1, -5, 3, 2, 1, 5, -2, 5, 5, 2, -4, -2, -3, 5, 2, -1, 4, 3, 3, -5, 3, 2) does not have all real eigenvalues
+The pA braid (-5, -5, 1, -5, -3, 4, -2, 1, 2, 5, 2, 5, 5, 1, 5, 5, 3, 3, 3, -5, -2, -3, 4, 2, -5, 1, -5, 3, 5, 5) does not have all real eigenvalues
+The pA braid (-4, -4, 1, -5, 4, -2, 3, 3, 2, -1, 5, -4, 5, -4, -4, 3, -5, -5, -2, 1, 2, 2, 1, 1, 5, 3, 5, 4, 3, -4, -5, -3, -4, -1, 2, 3, 1, -3) does not have all real eigenvalues
+The pA braid (-4, -3, -1, 5, 3, 5, 4, 5, -3, 2, 5, -2, -4, -2, 5, 2, -1, 4, 3, -2, -1, 2, 1, -2, 5, -2, -4, -3, 5, -4, -5, 1, 2, 3, 1, 3, 2, 4) does not have all real eigenvalues
+The pA braid (4, 5, 5, -1, -5, 1, -2, -3, 4, -5, -5, -4, 1, -4, -4, -1, 3, -1, -3, -5, -2, 3, -2, -5, 1, -2, -4, -2, 4, 4, -5, -5, 1, 5) does not have all real eigenvalues
+The pA braid (4, 1, 4, -5, -4, -4, 3, 3, -4, 2, 1, 1, 4, -3, 2, -5, 4, 2, 4, -1, -2, 5, -4, 1, 4, -3, -2, -5, 2, 1, -2, -3, -2, -2) does not have all real eigenvalues
+The reducible braid (5, 5, -3, 1, -4, -5, 4, -5, -5, 4, 3, -2, -3, -5, -2, -2, 5, 3, -4, -4, 5, -4, -1, -4) does not have all real eigenvalues
+The pA braid (-5, -4, 5, -3, -2, -5, -1, -5, 2, 3, 2, -1, -1, -5, 1, -2, -1, 4, -2, 1, -3, 5, 3, -2, 5, 4, 5, -2, -3, -2, -1, -1, 2, 3) does not have all real eigenvalues
+The pA braid (4, -5, 4, 2, -5, 4, -5, -2, 1, 3, -1, -5, -2, -5, -3, 2, -4, -5, 2, -1, -5, -2, 4, 2, -4, 2, -5, 3, 4, 1) does not have all real eigenvalues
+The pA braid (2, 1, -5, -4, -5, -1, 2, -1, -4, -3, 4, -5, 2, -1, -1, 3, 3, 2, -3, 1, 4, 3, 5, 4, -5, 2, -5, 4, -3, -4, -3, -3) does not have all real eigenvalues
+The pA braid (-2, -1, -4, -2, -4, -5, 2, 1, -2, -1, 4, 5, -1, 2, -3, 1, -5, 1, 2, -1, 3, 5, -3, -1, 5, -1, -4, 5, 4, 3, 1, -5, -4, 2) does not have all real eigenvalues
+The pA braid (-4, -3, -1, 5, 5, -3, 4, 4, 3, -4, 3, 2, 5, -3, 4, -3, 4, -1, 4, 3, -2, 4, 2, 2, -1, 3, -5, 3) does not have all real eigenvalues
+The pA braid (-3, 1, 5, 2, 4, -3, 4, 3, 3, 1, 4, 3, -2, 1, -2, 5, -2, 4, 3, -2, -5, -1, -3, -5, 4, -2, -5, 3) does not have all real eigenvalues
+The pA braid (2, -5, -1, -4, -5, -5, -4, -2, -1, -1, 4, 3, -1, -2, -1, -1, -3, -3, -2, -4, 2, -1, 5, -3, -2, -3, 4, -3, -4, 5, 5, -3, -3, -1) does not have all real eigenvalues
+The pA braid (-3, 4, -3, -4, 5, -4, -1, 2, 3, -5, 2, -4, -3, -5, -1, 3, 3, 1, -2, 3, 1, -5, -3, -3, -1, -2, -4, -5, 1, -5, 1, 5, 1, -3, 1, -2) does not have all real eigenvalues
+The pA braid (2, 5, 3, 1, 5, 1, -4, 2, -4, 1, -3, -2, -4, 2, 4, 3, 2, -3, 4, -2, -1, 5, 5, 1, 2, 5, 1, -4) does not have all real eigenvalues
+The pA braid (3, -4, -1, -1, 2, -5, 3, 5, 2, -4, -1, -1, -2, 5, 1, 3, 2, -4, -1, 4, 5, -1, 3, -1, 2, 4, -3, -5, -3, -5, -4, 5) does not have all real eigenvalues
+The pA braid (-4, -3, -4, 1, 5, -3, -4, -1, 2, 1, 2, -4, -3, -1, 5, -4, -4, 1, -2, 4, 3, 4, -5, -5, 2, 5) does not have all real eigenvalues
+The pA braid (4, -5, 4, 3, 2, -4, -1, 2, 1, -5, -4, -3, -1, -4, -1, -5, -5, 4, -2, -2, -5, -3, 2, -1, -1, 4, 2, 1, -4, -1, -2, -1) does not have all real eigenvalues
+The pA braid (5, -3, -4, 5, -3, 5, -1, -2, 5, 2, -4, 1, -2, 1, 4, -2, -2, -4, 1, 5, 2, -1, -2, -5, 2, 3, -5, 2, 2, -4) does not have all real eigenvalues
+The pA braid (-1, 3, 1, -2, -5, 4, -5, -3, -2, -3, 1, 1, 5, -1, -4, 1, 5, -4, -1, -5, -5, -3, 1, -5, -1, 2) does not have all real eigenvalues
+The pA braid (-3, -2, -3, -5, 2, 5, 2, -1, -1, 5, -1, 4, -5, -1, 3, 2, -5, 2, -3, -2, 5, 5) does not have all real eigenvalues
+The pA braid (-2, -1, 4, 1, 1, 2, 5, 4, -2, 3, 2, 3, 2, 3, -2, -1, -3, 5, 3, 3, -4, 1, 3, 4, 2, 3, 1, -2, 4, 5) does not have all real eigenvalues
+The pA braid (-2, 1, -4, 2, 2, -1, 3, 3, -1, 2, -5, 1, -3, 1, 5, 1, 1, -3, -4, -2, -5, 1, -3, 4, 2, 4, 5, 1, -5, -2) does not have all real eigenvalues
+The pA braid (-1, 2, 1, 3, 1, -4, -4, -1, -5, -4, 1, -4, -1, -4, -1, 3, 3, 5, -3, -5, -3, -4, 3, -5, 4, 2, -5, 1, 1, -2) does not have all real eigenvalues
+The pA braid (-2, 1, 1, 5, 4, 2, 3, 3, 1, -3, 5, 4, -2, 5, 1, -2, 4, 1, -2, -4, 2, -1, 3, -1, -4, -5, 4, 3, 1, 4, -3, 2) does not have all real eigenvalues
+The pA braid (-3, 2, -5, 1, 1, 5, -3, 1, 3, -1, -1, 5, 3, 4, -3, 4, 4, -1, -3, -3, 1, 1, 2, 3, 1, -2, -5, 4, -3, 1, 5, 3, -1, -4) does not have all real eigenvalues
+
+There are 95 pA braids of which 59 have real eigenvalues
+There are 0 periodic braids of which 0 have real eigenvalues
+There are 5 reducible braids of which 4 have real eigenvalues
+
+There are 0 braids with repeated eigenvalues
+
+%%%
+
+Enter the number of strands: 6
+Enter the length of the word: 50
+Enter the number of trials: 100
+
+The pA braid (1, 4, -1, -5, -4, 3, 5, 5, -3, 5, 4, -2, 4, 5, 3, 1, 3, 4, 3, -2, -3, -3, -1, 3, 2, 3, 1, 1, -5, -1, -2, 4) does not have all real eigenvalues
+The pA braid (-2, -4, 1, 5, 2, -3, 2, 5, -3, -4, 3, -1, 4, 1, -5, 4, 4, 3, 2, -1, -3, -2, -5, 2, 3, 4, -5, 1, 5, -1, -2, -3, -4, -5, 1, 3, -4, 2, -5, 3, -4, 5) does not have all real eigenvalues
+The pA braid (1, -4, 2, -4, -3, -4, -5, -4, -2, 1, 1, -3, 5, -2, -2, 5, -1, 2, 1, 2, -5, 1, -3, -2, -3, -2, -3, -4, -3, 1, -4, 3, -2, 3, -5, -3, 2, 1, 1, 4) does not have all real eigenvalues
+The pA braid (-3, -5, -3, -3, 5, 1, 2, -1, -4, -1, 2, 4, -3, -3, -4, 1, 5, 5, -4, -4, 1, -4, -1, 2, -5, 2, -4, 5, 2, 5, -1, -3, -1, -3, -1, -1, 3, -4, 3, 4, 4, -1) does not have all real eigenvalues
+The pA braid (3, -2, 3, 1, -4, 3, 4, 5, -2, -3, -5, 4, -3, -1, -4, -4, 1, 3, 2, -4, -1, 2, 3, -2, -2, -5, -5, 4, 2, -3, -5, -3, 4, 4, 2, -1, -3, -2, -4, -3) does not have all real eigenvalues
+The pA braid (2, 4, 5, 1, 4, -2, 3, 2, -4, -2, 3, 1, 1, -5, -3, 2, 3, 5, 2, 4, -3, -4, -5, 4, 3, 4, 1, -3, -5, -4, -2, -1, 5, 4, -5, -4) does not have all real eigenvalues
+The pA braid (-2, -4, -1, -1, -4, -3, -1, -5, -5, 3, 2, 3, 1, -4, 5, 5, -2, -4, -3, -4, -4, -1, -5, -2, -3, -3, -1, 4, 2, -1, -5, 4, 4, 2, -4, 3) does not have all real eigenvalues
+The pA braid (-4, -3, 2, -4, 5, -2, -4, -2, 4, -2, -3, -5, 3, 2, 5, 5, -3, -4, -1, -4, 3, -2, -5, -4, 5, -2, -2, 5, -3, 2, 2, 1, -3, 5, 2, -3, -4, -1, 3, -5) does not have all real eigenvalues
+The pA braid (-4, -4, -5, -4, 1, -4, -1, 4, 1, 1, -2, 5, 1, 5, 1, -5, 4, -2, 4, -1, -3, -4, 3, 3, 1, -3, -2, 1, 4, 1, -5, 1, 3, -2, -5, 1, -5, -4) does not have all real eigenvalues
+The pA braid (2, 3, 2, 1, 2, 1, -5, 4, 1, 2, -1, 4, 2, -5, -2, -2, -5, -1, -5, -1, 4, -2, 3, -2, 3, -1, 3, -1, -3, -3, 5, 5, 5, 2, 4, 5, 2, 4, 2, -3, -1, -4, 5, 5) does not have all real eigenvalues
+The pA braid (-3, -4, -3, -1, -1, 5, 5, -3, 4, -2, 5, 3, -4, -4, 3, -1, -4, 3, 5, 4, -1, 4, 3, -5, -2, 5, 2, -5, -4, -4, -1, -4, 5, 2, 4, 3, 4, -1, -3, 4, 4, 2, 3, 3, -1, 5) does not have all real eigenvalues
+The pA braid (2, 2, 5, 1, 5, 5, -2, -2, 1, 1, -2, -4, -2, 5, 2, -3, 5, 2, 5, 4, -2, 3, 5, 5, -1, 2, -1, 2, 1, -5, 4, -2, 5, 3, 1, -3, 1, 3) does not have all real eigenvalues
+The pA braid (-4, 1, -4, -4, 2, 3, -2, 5, -1, 3, 3, 5, -4, 5, -4, 3, -1, 2, -3, 2, -4, 5, -4, 5, -4, -2, 4, 1, 2, 4, -3, 4, 1, 2, 3, 4, -5, -2, -1, -4, -1, -1) does not have all real eigenvalues
+The pA braid (1, -4, 2, 3, -2, 3, 2, 3, 4, -3, -1, 3, 3, -1, -1, -5, -2, -5, -5, -4, 5, 5, -1, -2, 1, 2, -1, 3, -5, 2, 2, -5, -1, -5, -1, -1, -3, 2) does not have all real eigenvalues
+The pA braid (1, 4, -1, -2, 5, 1, 3, -2, 5, 4, 2, 1, 5, 3, -4, -2, 5, -1, 2, -5, -3, -2, -4, -5, -5, 4, 2, 1, -2, 1, -2, -5, -2, -2, 5, -4, -1, -1, 5, 5) does not have all real eigenvalues
+The pA braid (-5, 2, 5, -1, -4, -2, -5, 3, 4, 4, -3, -1, -3, -2, -4, -4, -1, -2, -2, -3, -1, -4, 2, 5, -1, 5, -2, -2, 5, 5, -4, -5, 2, 3, 4, 5, 5, 4) does not have all real eigenvalues
+The pA braid (-5, 1, 2, -5, 2, 2, 5, -3, 4, 1, 4, 4, -1, 2, -3, -3, 5, 1, 4, 4, 4, -3, -1, 3, -1, -2, -2, -3, 4, -1, 3, 1, -4, -2, -4, -4, 2, 4, 2, 2, -4, -2) does not have all real eigenvalues
+The pA braid (-4, -5, -2, -1, 3, -1, -5, -2, 5, 3, 5, -1, -1, -2, -2, -1, 5, 4, 1, 2, -4, -3, 4, 1, -4, 2, 4, 5, 2, 4, 3, 1, 1, 1, -4, 1, 3, -1, -1, 5, 4, -1, 2, 5) does not have all real eigenvalues
+The pA braid (-4, 5, -1, 5, 4, 1, -5, -1, -4, 5, 4, 3, -2, -2, 5, 5, -2, -3, -4, 5, 1, -3, 1, 2, 4, 2, 3, 2, 3, -5, 1, -3, 2, 3, 4, 2, -5, -2, 1, 3) does not have all real eigenvalues
+
+There are 96 pA braids of which 77 have real eigenvalues
+There are 0 periodic braids of which 0 have real eigenvalues
+There are 4 reducible braids of which 4 have real eigenvalues
+
+There are 0 braids with repeated eigenvalues
+
+%%%
+
+Enter the number of strands: 6
+Enter the length of the word: 60
+Enter the number of trials: 100
+
+The pA braid (2, 5, -3, -3, 1, 3, -4, -2, 3, -4, 1, 1, -3, -5, 3, -1, -1, -2, 3, 3, 2, 1, 4, -1, -1, -5, -1, -2, 1, 4, 1, -3, 2, -3, 4, 1, 5, -4, 1, 1, -4, 2, 5, -1, 3, -2, -3, -5) does not have all real eigenvalues
+The pA braid (-3, 4, 2, -4, 5, 1, -5, 1, 3, 1, 1, -3, -5, -3, -1, -3, -2, 5, 1, 1, -5, -3, -1, -2, 4, 2, 2, -4, -2, 4, 5, -2, -4, -2, -3, 5, 2, 2, 2, -1, 2, -4, -5, -1, -3, -3, 5, 5, -3, -2, -1, -5, 2, -1, -3, 1, 3, -1) does not have all real eigenvalues
+The pA braid (-1, 3, 3, 4, 1, -5, 4, 3, -5, 3, 2, 1, -2, -5, 1, -2, -4, -1, 4, 5, 1, -3, 1, -2, -3, -2, -4, 2, 2, 2, 2, -5, -2, -5, 3, 5, -1, -2, 5, 4, -5, -5, -5, 4, 5, -4) does not have all real eigenvalues
+The pA braid (3, -5, -4, 3, -1, 2, -5, -1, 2, -4, -3, -4, 5, 2, 2, -4, -2, -5, -5, 3, 3, 5, -2, 1, 3, 2, 5, 3, 3, -4, -4, -4, 5, 2, 2, -1, 5, -3, -2, 3, 5, -3, -5, -1, -2, 1, -3, 4, 5, -4, -3, -4) does not have all real eigenvalues
+The pA braid (-3, -2, -3, 2, -4, 5, 2, 4, 4, 5, 2, 1, -4, 5, 3, -5, 3, 2, -4, -4, -4, 1, 4, 4, -1, -3, 1, 4, 2, -5, -2, -1, 4, -1, -1, 3, -5, 4, 3, 2, -1, -2, 3, -2, 4, 2) does not have all real eigenvalues
+The pA braid (2, 4, 4, -2, -2, 3, 5, -2, 1, 3, 3, 5, 4, 4, -2, 5, 5, 2, 2, -4, -5, 3, 4, -1, 3, -1, -1, -3, -2, 4, 3, -1, 2, 1, -2, 3, -4, -4, 2, -1, 2, 4, 4, -3, -5, 3) does not have all real eigenvalues
+The pA braid (5, -2, -1, -4, -3, -1, -4, 1, -2, -2, 1, -2, -4, -3, 5, 2, 2, -4, 2, 4, -2, -5, 3, -2, 5, -4, 1, -5, -3, 2, -4, 3, -5, -3, 5, 5, -4, -1, -3, -4) does not have all real eigenvalues
+The pA braid (2, 5, 4, 3, 5, -2, 5, 4, -2, -3, 4, -5, -1, -5, -2, -2, -2, 3, 5, -4, -2, -1, 5, -3, 2, 4, -2, -2, 5, 2, -5, 3, 3, -5, 4, 2, 3, 1, -5, -1, 5, -3, 1, -2) does not have all real eigenvalues
+The pA braid (5, 4, -1, 5, -4, 5, 3, -1, -2, -3, 4, -3, 2, -4, -4, 2, -5, -3, -1, 3, 5, -1, -5, -2, 1, -5, -5, -3, -5, -5, -1, 3, -4, -5, -4, 1, -4, -2, -1, 2, -1, 2, 1, -2, -4, -5) does not have all real eigenvalues
+The pA braid (-5, -2, 4, -2, -4, -2, -5, 2, 3, -2, -5, 2, 4, -3, -1, 5, 4, 1, 4, 3, -1, 3, -4, 3, -4, 2, 4, 5, -1, 2, 5, 1, -4, -3, -4, -2, -3, 4, -2, 1, 3, 4, -2, -2, -4, 1) does not have all real eigenvalues
+The pA braid (1, 2, 5, 3, 2, 2, -3, 5, -3, -3, 1, -2, -1, 5, -3, -4, -3, -5, -3, 4, 1, -4, -3, -3, -4, 1, 3, 4, -5, 4, 4, 3, -1, 4, 2, 2, -1, 2, -1, 4, -5, 2, 1, 4) does not have all real eigenvalues
+The pA braid (-4, -1, 2, -5, -4, -1, -4, 2, 3, 4, 1, -3, 4, -1, -1, 5, -4, -5, -3, 1, 4, -2, 4, -1, 4, 2, -5, -3, -4, -4, -5, -4, -4, -2, -2, 1, -5, -5, -3, -4, 1, -4, -3, 5, 1, 5, 4, -5) does not have all real eigenvalues
+The pA braid (-5, 3, -5, -3, 5, -3, 2, -3, 5, -3, 2, -3, 1, 4, 1, -4, 3, -2, -1, 4, -2, 1, 5, -2, -3, 4, -3, -4, -4, 3, 2, 2, 4, -1, -4, 5, -2, -4, 1, 2, 5, 1, 2, -5, -4, -2, 4, 2, 1, 1) does not have all real eigenvalues
+
+There are 100 pA braids of which 87 have real eigenvalues
+There are 0 periodic braids of which 0 have real eigenvalues
+There are 0 reducible braids of which 0 have real eigenvalues
+
+There are 0 braids with repeated eigenvalues
+
+%%%
+
+Enter the number of strands: 6
+Enter the length of the word: 70
+Enter the number of trials: 100
+
+The pA braid (-3, -3, 1, -2, 4, 1, 5, 2, -4, 5, 1, -5, -4, -4, 3, 2, 5, -2, 4, -5, -4, -5, -3, 1, 5, 4, -2, -3, -3, -5, 1, -5, -2, 5, -1, 2, -5, -3, 5, -2, -5, -4, -5, 1, 3, -5, -4, 1, 1, -5, -2, 4, 5, -1, -5, 4, -5, 2) does not have all real eigenvalues
+The pA braid (3, -2, -5, -3, -4, -1, -2, 5, 1, 1, 5, 1, -4, -5, 1, 3, -2, -2, 3, 5, -2, -4, 1, -5, 2, 4, -3, -3, -5, -4, -1, 2, -5, -2, -2, 1, 4, 4, 3, -5, -2, -1, 2, 1, -4, -1, 2, 1, 3, 2, -4, 5, -1, 4, -5, -2, 1, 5, 3, 1) does not have all real eigenvalues
+The pA braid (4, -3, -5, 3, -4, -2, 1, 2, 2, 2, 3, 4, 4, 5, -4, 1, -2, -3, -5, 3, 2, -5, 4, -3, -1, 5, 2, -1, -1, 4, -2, 1, -5, 4, 3, 5, 1, -4, -5, -4, -4, 2, 2, -5, -5, 1, 2, 1, 3, 3, 2, -1, -1, -3, 2, -1, -1, -3, -1, -1) does not have all real eigenvalues
+The pA braid (5, 3, 3, 2, 1, 4, -3, -3, 1, 3, -4, -4, -1, 3, 5, -1, -5, -5, -2, 1, -2, 1, -3, -2, -5, -5, 3, 2, 2, -1, 4, 1, -3, -2, -4, 1, 5, 3, 1, -5, 4, 2, 5, 4, -2, -2, -5, -1, -2, -3, -1, 5, -2, -4, -2, -4) does not have all real eigenvalues
+The pA braid (1, -4, 2, -5, 1, -5, -5, -5, -2, -4, -2, 5, 5, -2, 3, 4, 3, 4, -2, 5, 5, -3, -2, 3, -1, -3, -1, 4, 3, -5, -1, 3, 3, 5, -2, 1, -3, 1, 1, -5, 3, 5, -4, -1, 5, 3, -1, 2, -1, -3, -3, 2, -3, -5, -3, 1, 1, -4, 5, 3) does not have all real eigenvalues
+The pA braid (-1, 2, 1, 1, 5, -2, -3, -4, 5, 2, -5, -4, 5, -1, 4, -5, -1, 2, 4, 5, -1, -1, 4, 1, 4, -2, -2, -2, 5, -1, -5, 2, 4, 2, -4, -4, 1, -4, -1, -2, 1, 2, -5, -3, 1, 2, 5, -4, -3, -3, 5, 5) does not have all real eigenvalues
+The pA braid (-2, 4, -1, 3, -4, 1, 2, 1, -3, -3, -2, 4, 2, 2, 3, 2, 5, 2, 5, 4, 1, -2, 3, 1, -4, -2, -5, -1, -2, 5, -2, 4, -1, 2, 5, 1, 5, 2, 5, -4, 3, 5, 1, 1, 1, -2, -5, -3, 4, 3, 2, -5, -4, -3, -3, 4) does not have all real eigenvalues
+The pA braid (4, -3, 4, -2, 4, -5, 2, 1, -4, -5, -3, 1, 1, 5, -1, -1, -3, -1, -5, 4, 2, -3, 2, -4, -1, -3, -4, -4, -5, -3, 2, -5, -5, -2, 1, 3, 4, -3, -5, -2, -4, -5, -5, 1, 2, 3, 2, 4, 4, -3, -4, 1) does not have all real eigenvalues
+The pA braid (5, -1, 2, 2, -4, -2, -4, -2, 5, 3, -1, 2, -3, -1, -4, 5, 4, -3, -4, -1, 3, 2, 1, -4, 3, 1, 1, -4, 1, -4, 1, -2, -1, -4, -3, -2, 1, -3, 5, 2, 1, 1, -2, 1, -5, 3, 1, -2, -2, -4, -1, -2, -1, 5) does not have all real eigenvalues
+The pA braid (-1, -3, -1, 4, 5, 4, 1, -3, -1, -1, 5, 2, -3, -1, -1, -5, -4, -2, -5, -2, 5, 3, -4, 5, 5, -1, 2, 4, -2, 4, 4, 3, 4, 3, -1, 4, 3, 5, 2, -4, -5, -1, -3, -5, 3, -1, -2, -3, -2, 1, 1, 5, 3, 1, 3, 5) does not have all real eigenvalues
+The pA braid (1, -2, -5, 1, 3, 4, 1, 1, -4, -2, -1, -2, 1, 4, -1, 2, 1, -4, -4, 2, 2, 4, -5, -1, -5, 1, 3, -2, -3, -4, -1, -1, 5, 1, 3, -5, -2, -2, 3, -1, 5, 4, 3, -5, 4, 1, 2, -1, 3, 1, -3, -1, 4, -5, 2, 2) does not have all real eigenvalues
+The pA braid (-2, -1, 4, -3, -1, -3, -3, 2, 2, -4, 3, 1, -4, 1, 2, -1, -4, -2, -3, -4, -2, -1, -5, -2, 3, 4, -2, -1, 5, 2, 5, 5, 1, 1, 1, -4, 2, 2, -5, 4, -1, -5, -3, -3, 5, -1, 3, 1, -3, -4, 2, 5, 2, 4, -2, -3, -5, -2) does not have all real eigenvalues
+The pA braid (-2, 4, -5, -4, 5, 5, 4, 3, -1, -2, -3, -2, 5, -2, 3, 3, -2, 1, -4, 1, 4, -1, 5, -1, 5, 4, 5, -2, 4, 3, -5, 2, 4, 5, -4, -2, 3, -1, 2, -3, -3, 2) does not have all real eigenvalues
+
+There are 100 pA braids of which 87 have real eigenvalues
+There are 0 periodic braids of which 0 have real eigenvalues
+There are 0 reducible braids of which 0 have real eigenvalues
+
+There are 0 braids with repeated eigenvalues
+
+%%%
+
+Enter the number of strands: 6
+Enter the length of the word: 80
+Enter the number of trials: 100
+
+The pA braid (3, -2, -1, 5, -3, -3, 4, 2, -4, -5, -4, -3, -1, 5, 5, 5, 1, 4, -5, 1, 3, -2, 4, 2, -4, 1, -2, -3, 5, 3, 5, -4, -4, -3, -2, -5, -5, 1, -4, 1, -3, -2, -5, -5, 1, 3, 5, 2, -4, -1, -4, 1, 2, -3, 2, 5, 4, -5, 3, 5, 5, -2, -3, -2) does not have all real eigenvalues
+The pA braid (3, -1, -5, 2, -5, -1, 4, 1, -3, -3, 4, 2, -4, -1, 3, -4, -2, -1, 5, -3, -4, -1, 2, 4, 5, -2, 3, 1, -2, 1, -3, -5, 2, 4, -3, -4, -4, -5, -4, 1, -3, -1, -5, 2, 5, -4, -4, -3, 4, 4, 5, -1, 3, -2, -1, 2, 3, -2, -1, -5, 3, -1, 5, -1) does not have all real eigenvalues
+The pA braid (1, 3, 3, -1, -5, -2, 4, 3, 2, 4, -2, -1, -1, -3, 4, -3, -2, 3, 4, -3, -5, 1, 4, 2, 4, 2, -4, -3, 4, -3, -1, 4, 2, -3, 4, -2, -2, -4, -5, -4, 2, -5, -3, 2, 5, -3, 1, -2, 1, -4, 5, -1, -5, 2, -1, 4, -5, -1, -1, 4, -3, -5, 3, -4, -2, -2) does not have all real eigenvalues
+The pA braid (4, -1, 3, 4, 5, -4, -5, 1, 2, 5, 2, 5, -1, -3, -2, -4, 5, 4, -5, -2, 1, -2, 3, 2, 2, 1, -4, 2, -3, -2, 3, -2, -2, 1, 3, 1, -5, 3, -4, -3, -1, 4, -5, -2, -1, -4, -5, 1, -5, -4, 5, -3, -5, -1, -3, -3, 5, 4, -5, -5, -4, -4, 1, 4) does not have all real eigenvalues
+The pA braid (3, -2, 5, -3, -2, -1, 3, 4, -2, 1, -3, -4, 3, 1, -5, 2, -3, 2, 5, 5, 2, -4, -2, -4, -2, 4, -5, -3, -3, 5, 1, 2, -1, 3, -1, -3, 2, -3, -2, -2, 1, -3, -2, 5, 1, -4, 2, 3, -1, 5, -3, -4, 3, 5, -3, 4, -5, -1, -1, -3, -1, -5) does not have all real eigenvalues
+The pA braid (3, 5, -4, 3, 2, -5, -3, -1, -5, 1, -5, 1, -5, 4, 4, 4, -2, 3, 3, 2, -1, -3, -5, 2, 5, -3, -4, -5, -5, -4, -4, 5, 2, 3, -4, 2, 2, -4, 1, -2, 3, 2, 5, 4, 2, 1, 4, -5, -2, -2, 5, -1, -2, 1, -5, 1, 5, 2, 4, -2) does not have all real eigenvalues
+The pA braid (-1, -4, 5, 2, -1, 4, -3, 4, -1, 3, 5, 1, -5, -3, 1, 2, 2, 4, 3, 5, 4, -2, 5, 2, -1, -4, -1, 5, -1, -3, -4, -3, -2, -4, 5, -4, 2, -5, -2, -2, 3, -1, 5, -4, -4, 2, 3, -2, -4, -4, -5, -2, 5, -3, 2, 1, 2, 2, 5, -3, -3, -1, -4, -4, -2, -3, 2, -4) does not have all real eigenvalues
+The pA braid (4, -3, -3, -5, 3, 1, 4, 1, 2, 4, 1, 1, 5, 4, 2, 3, 5, -4, 5, -1, 5, -3, -5, -3, 2, -4, 2, 4, -5, -5, 3, 2, -3, -4, -1, 4, -1, -4, 1, -2, 5, -4, 3, -2, 4, 5, 2, -4, -1, -1, 5, 3, 1, 5, 2, 5, -4, 2, -5, -2, -1, -4, 2, -3) does not have all real eigenvalues
+
+There are 100 pA braids of which 92 have real eigenvalues
+There are 0 periodic braids of which 0 have real eigenvalues
+There are 0 reducible braids of which 0 have real eigenvalues
+
+There are 0 braids with repeated eigenvalues
+
+%%%
+
+Enter the number of strands: 6
+Enter the length of the word: 90
+Enter the number of trials: 100
+
+The pA braid (4, -3, -1, -3, -5, 2, 4, 1, 3, 3, 3, -4, -3, 5, -4, -4, -1, -2, 3, 5, -2, 3, 5, 2, -5, -4, 3, 2, -3, -1, -1, -1, -1, 3, 4, 3, 3, 2, 1, 4, -5, -3, 2, -5, 1, 2, 2, -5, -1, -5, -2, 1, 3, -5, -5, 3, -2, 5, -2, -4, -5, -1, -1, 4, 4, 2, -5, -5, -4, -5, -3, 1, -3, -2, -3, 4, -1, 3, 4, 4) does not have all real eigenvalues
+The pA braid (3, -5, 4, -5, -5, -5, 4, -2, -2, -5, -5, 3, -5, 2, 5, 3, 3, -5, -5, 1, 4, -3, -3, -4, -3, -5, 3, 3, -5, -4, 3, -5, 3, 1, 2, 4, -5, 2, 4, -2, 1, 1, -2, -1, 5, 3, 5, 4, 2, 2, 4, -3, 2, 4, -2, -5, 2, 1, 3, 2, -3, 5, -2, -4, -5, 2, 5, -1, -2, 1, -2, 4) does not have all real eigenvalues
+The pA braid (5, 2, 5, -3, -1, -2, 5, -3, 1, -4, -3, -2, -2, 1, 4, -5, -4, 3, 5, 3, -1, -1, 4, 5, -1, 4, -1, -2, 4, 2, -5, 1, 3, 5, 1, -2, -5, 2, -4, 5, 2, 3, -5, 2, 4, 2, 5, -2, 3, -5, 3, 5, 5, 1, 1, -3, -1, 4, -3, 2, -4, 2, 3, 1, 4, -1, 2, -3, 4, 3, 3, -5) does not have all real eigenvalues
+The pA braid (3, 2, -5, -1, 5, 5, -3, -3, 5, -2, -5, -3, 5, 5, 2, 2, 1, 1, -2, 3, 1, -2, -3, 5, 5, -2, -3, -5, -5, 2, 4, 2, 3, 2, 1, -5, 2, 5, 5, -2, -5, 2, -4, 1, -3, -3, 4, 3, -4, -5, 2, -4, 1, 2, 5, 5, -4, 2, 4, -1, 4, -3, -1, -3, -5, 1, 1, -5, 2, 2, 5, -4, -2, -1, 4, 3, 2, -1) does not have all real eigenvalues
+The pA braid (-4, -1, 3, 2, -3, 2, -1, -2, -4, 3, -2, -3, 4, 4, 2, -4, -4, -1, 2, 5, 3, -5, -3, 2, -5, 4, -5, -2, 5, -2, -4, -5, -2, -3, -5, -1, -4, 1, -3, -2, -2, -2, -3, -4, 3, 2, 1, 2, 1, -2, -1, 4, 3, 1, -4, 5, 1, 2, 4, -2, 3, -2, -5, -4, -3, 1, 2, 5, -4, -1, 2, 1, -4, 1, 4, 3) does not have all real eigenvalues
+The pA braid (-2, 1, -4, -1, 4, 5, 2, 5, -4, -3, 1, 3, 5, 3, -1, 4, 1, 1, -2, -4, -3, 4, -2, -5, 3, -5, 1, 3, -5, -5, -5, 1, -4, 5, -3, 5, 3, 5, -1, 5, -2, -5, 1, 4, -1, -5, -5, -4, -5, -3, 5, 3, -1, -5, 2, 4, 5, 5, -2, 5, 4, -1, -3, -3, -4, -4, -5, -1, -1, 2, -3, 1) does not have all real eigenvalues
+The pA braid (3, -4, -2, -1, 3, -1, -5, 4, -2, 1, -5, -2, -1, -4, -4, -5, -4, 5, -3, -4, -5, 3, 5, 5, 2, 2, 5, 1, -2, 1, 1, 2, 4, 1, -3, 4, 4, -1, -2, 4, -5, -5, -1, -2, -2, 1, 2, 4, -2, 3, -4, -3, -2, -4, 5, 5, -2, -3, -4, 2, 3, 2, 2, -3, 4, 1, 3, -5, 3, 3, 4, 5) does not have all real eigenvalues
+The pA braid (4, 2, -3, 5, 1, 1, -3, 2, -4, 2, 1, 2, 3, 5, 1, -4, -2, 4, 1, -4, -5, 1, 2, 1, -5, -4, 2, -1, -3, 4, 5, -1, 3, 3, 1, -2, -4, -5, 2, 4, -1, -3, 5, -2, 1, -2, -3, -3, -1, -5, 3, -1, -4, 5, 4, -2, 1, 4, -3, -2, 3, -1) does not have all real eigenvalues
+The pA braid (2, 1, 4, 2, 4, 2, 2, 2, -1, -5, 1, 4, -3, -3, -3, 2, 3, 2, -4, -5, 4, 1, 4, 4, 1, 5, -4, 1, 4, -3, -5, -4, 1, 5, 3, 5, 4, 3, -1, 4, -3, -1, -4, -5, -2, -2, 5, 5, 4, -1, 3, -2, -2, -3, 4, 3, 1, -3, 1, -5, -4, -5, 1, -4, 3, 3, 5, 3, 2, 5, 3, -1) does not have all real eigenvalues
+
+There are 100 pA braids of which 91 have real eigenvalues
+There are 0 periodic braids of which 0 have real eigenvalues
+There are 0 reducible braids of which 0 have real eigenvalues
+
+There are 0 braids with repeated eigenvalues
+
+%%%
+
+Enter the number of strands: 6
+Enter the length of the word: 100
+Enter the number of trials: 100
+
+The pA braid (-3, -2, -2, 3, 3, -2, 1, -3, 5, -3, -2, 3, -1, 2, -3, -3, 5, -4, 2, 1, 1, 2, -1, 4, 4, 5, 4, 5, 5, -3, -4, -4, 5, 3, 3, 3, -5, -4, 3, 3, 2, -1, -3, -4, -3, -5, -3, -1, -4, -2, 1, 1, 1, 5, 3, 5, -3, 1, 5, 1, 2, -4, -2, -3, 1, 3, -5, -5, -1, 3, -2, 5, 4, -1, -5, -1, -2, -3, -3, 5, 1, -3, -2, 4) does not have all real eigenvalues
+The pA braid (-5, -1, -5, -5, -4, -3, 5, -3, -1, 4, 1, 5, 3, 5, 5, 1, 3, -5, -4, 2, 4, 2, -4, -4, -5, 4, -2, 1, 4, 5, -1, -2, 1, -4, -4, -5, 1, -4, 5, -3, 1, 1, -3, 5, 3, 1, 5, 2, 3, 2, 3, 1, -5, 4, 2, 5, 3, 3, -1, -2, 4, 4, 4, -5, -2, -2, -2, -1, -3, 2, 5, 3, -4, 2, -4, -5, 2, -4) does not have all real eigenvalues
+The pA braid (-5, -4, 2, -5, -1, -2, -3, 2, -1, -3, -3, -3, 1, -5, -4, -3, 5, -4, -5, -4, -4, 1, -4, 1, -4, 3, 3, 4, 4, 2, -4, -2, -5, -1, 4, -3, 1, 5, 4, -1, -2, 4, 3, -5, 4, -2, 5, 4, 1, -4, 3, 5, -1, 2, -3, -2, -3, -2, -5, -4, -1, 5, 1, 5, -2, 1, 4, -1, 2, 5, 1, 5, -2, 1, -2, -2, 1, -4) does not have all real eigenvalues
+
+There are 100 pA braids of which 97 have real eigenvalues
+There are 0 periodic braids of which 0 have real eigenvalues
+There are 0 reducible braids of which 0 have real eigenvalues
+
+There are 0 braids with repeated eigenvalues
