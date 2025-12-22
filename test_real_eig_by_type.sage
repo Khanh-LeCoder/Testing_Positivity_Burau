@@ -10,10 +10,16 @@ pA_count = 0
 per_count = 0
 red_count = 0
 
+multi_roots_count = 0 
+
 for k in range(sample_size):
 	braid = random_braid(strands,length)
 	char = char_poly(braid.burau_matrix(var= 't',reduced =True))
+	char_der = char.derivative()
 
+	if gcd(char,char_der) != 1:
+		multi_roots_count = multi_roots_count + 1
+	
 	if braid.is_pseudoanosov():
 		pA_count = pA_count + 1
 		if count_real_roots(char) == strands - 1:
@@ -29,9 +35,9 @@ for k in range(sample_size):
 		if count_real_roots(char) == strands - 1:
 			red_real_count = red_real_count + 1	
 
-print(f"The are {pA_count} pseudo-Anosov braids of which {pA_real_count} have real eigenvalues")
-print(f"The are {per_count} periodic braids of which {per_real_count} have real eigenvalues")
-print(f"The are {red_count} reducible braids of which {red_real_count} have real eigenvalues")
+print(f"There are {pA_count} pseudo-Anosov braids of which {pA_real_count} have real eigenvalues")
+print(f"There are {per_count} periodic braids of which {per_real_count} have real eigenvalues")
+print(f"There are {red_count} reducible braids of which {red_real_count} have real eigenvalues")
 
 
 
