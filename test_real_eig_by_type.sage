@@ -23,17 +23,20 @@ for k in range(sample_size):
 	if gcd(char,char_der) != 1:
 		multi_roots_count = multi_roots_count + 1
 		multi_roots.append([braid,char,thurston_type,count_real_roots(char)])
-	if thurston_type == 'pseudo-Anosov':
+	
+	if thurston_type == 'pseudo-anosov':
 		pA_count = pA_count + 1
 		if count_real_roots(char) == strands - 1:
 			pA_real_count = pA_real_count + 1
 		else:
 			print(f"The pA braid {braid} does not have all real eigenvalues")
+	
 	if thurston_type == 'periodic':
 		per_count = per_count + 1
 		if count_real_roots(char) == strands - 1:
 			per_real_count = per_real_count + 1
 			print(f"The periodic braid {braid} does have all real eigenvalues")
+	
 	if thurston_type == 'reducible':
 		red_count = red_count + 1
 		if count_real_roots(char) == strands - 1:
