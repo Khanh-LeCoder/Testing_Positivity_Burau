@@ -19,6 +19,7 @@ for k in range(sample_size):
 	char = char_poly(braid.burau_matrix(var= 't',reduced =True))
 	char_der = char.derivative()
 	thurston_type = braid.thurston_type()
+	print(thurston_type)
 
 	if gcd(char,char_der) != 1:
 		multi_roots_count = multi_roots_count + 1
