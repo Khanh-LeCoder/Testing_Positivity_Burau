@@ -1,7 +1,7 @@
 strands = int(input("Enter the number of strands: "))
 length = int(input("Enter the length of the word: "))
 sample_size = int(input("Enter the number of trials: "))
-
+print()
 pA_real_count = 0
 per_real_count = 0
 red_real_count = 0
