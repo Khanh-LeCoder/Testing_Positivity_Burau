@@ -20,7 +20,8 @@ for k in range(sample_size):
 	if gcd(char,char_der) != 1:
 		multi_roots_count = multi_roots_count + 1
 		print(f"The braid {braid} has repeated eigenavlues")
-	
+		print(f"The characteristic polynomial is {char}")
+
 	if braid.is_pseudoanosov():
 		pA_count = pA_count + 1
 		if count_real_roots(char) == strands - 1:
@@ -41,6 +42,7 @@ for k in range(sample_size):
 		else:
 			print(f"The reducible braid {braid} does not have all real eigenvalues")
 
+print()
 print(f"There are {pA_count} pA braids of which {pA_real_count} have real eigenvalues")
 print(f"There are {per_count} periodic braids of which {per_real_count} have real eigenvalues")
 print(f"There are {red_count} reducible braids of which {red_real_count} have real eigenvalues")
