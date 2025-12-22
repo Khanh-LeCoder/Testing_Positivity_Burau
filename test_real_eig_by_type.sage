@@ -52,6 +52,8 @@ print(f"There are {red_count} reducible braids of which {red_real_count} have re
 
 print()
 print(f"There are {multi_roots_count} braids with repeated eigenvalues")
-print(multi_roots)
+for entry in multi_roots:
+	print(entry)
+
 
 	
