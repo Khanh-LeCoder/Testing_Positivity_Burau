@@ -38,7 +38,7 @@ for k in range(sample_size):
 print(f"There are {pA_count} pseudo-Anosov braids of which {pA_real_count} have real eigenvalues")
 print(f"There are {per_count} periodic braids of which {per_real_count} have real eigenvalues")
 print(f"There are {red_count} reducible braids of which {red_real_count} have real eigenvalues")
-
+print(f"There are {multi_roots_count} braids with eigenvalues having multiplicities")
 
 
 	
