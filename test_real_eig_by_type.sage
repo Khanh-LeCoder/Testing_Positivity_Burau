@@ -24,18 +24,23 @@ for k in range(sample_size):
 		pA_count = pA_count + 1
 		if count_real_roots(char) == strands - 1:
 			pA_real_count = pA_real_count + 1
+		else:
+			print(f"The pA braid {braid} does not have all real eigenvalues")
 
 	if braid.is_periodic():
 		per_count = per_count + 1
 		if count_real_roots(char) == strands - 1:
 			per_real_count = per_real_count + 1
+			print(f"The periodic braid {braid} does have all real eigenvalues")
 
 	if braid.is_reducible():
 		red_count = red_count + 1
 		if count_real_roots(char) == strands - 1:
-			red_real_count = red_real_count + 1	
+			red_real_count = red_real_count + 1
+		else:
+			print(f"The reducible braid {braid} does not have all real eigenvalues")
 
-print(f"There are {pA_count} pseudo-Anosov braids of which {pA_real_count} have real eigenvalues")
+print(f"There are {pA_count} pA braids of which {pA_real_count} have real eigenvalues")
 print(f"There are {per_count} periodic braids of which {per_real_count} have real eigenvalues")
 print(f"There are {red_count} reducible braids of which {red_real_count} have real eigenvalues")
 print(f"There are {multi_roots_count} braids with eigenvalues having multiplicities")
