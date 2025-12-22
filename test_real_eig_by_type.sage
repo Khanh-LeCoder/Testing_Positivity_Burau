@@ -12,31 +12,32 @@ per_count = 0
 red_count = 0
 
 multi_roots_count = 0 
+multi_roots = []
 
 for k in range(sample_size):
 	braid = random_braid(strands,length)
 	char = char_poly(braid.burau_matrix(var= 't',reduced =True))
 	char_der = char.derivative()
+	thurston_type = braid.thurston_type()
 
 	if gcd(char,char_der) != 1:
 		multi_roots_count = multi_roots_count + 1
-		print(f"The braid {braid} has repeated eigenavlues")
-		print(f"The characteristic polynomial is {char}")
+		multi_roots.append([braid,char,thurston_type])
 
-	if braid.is_pseudoanosov():
+	if thurston_type == "pseudo-Anosov":
 		pA_count = pA_count + 1
 		if count_real_roots(char) == strands - 1:
 			pA_real_count = pA_real_count + 1
 		else:
 			print(f"The pA braid {braid} does not have all real eigenvalues")
 
-	if braid.is_periodic():
+	if thurston_type == "periodic":
 		per_count = per_count + 1
 		if count_real_roots(char) == strands - 1:
 			per_real_count = per_real_count + 1
 			print(f"The periodic braid {braid} does have all real eigenvalues")
 
-	if braid.is_reducible():
+	if thurston_type == "reducible":
 		red_count = red_count + 1
 		if count_real_roots(char) == strands - 1:
 			red_real_count = red_real_count + 1
