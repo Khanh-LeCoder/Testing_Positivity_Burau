@@ -22,7 +22,7 @@ for k in range(sample_size):
 
 	if gcd(char,char_der) != 1:
 		multi_roots_count = multi_roots_count + 1
-		multi_roots.append([braid,char,thurston_type])
+		multi_roots.append([braid,char,thurston_type,count_real_roots(char)])
 
 	if thurston_type == "pseudo-Anosov":
 		pA_count = pA_count + 1
@@ -48,7 +48,10 @@ print()
 print(f"There are {pA_count} pA braids of which {pA_real_count} have real eigenvalues")
 print(f"There are {per_count} periodic braids of which {per_real_count} have real eigenvalues")
 print(f"There are {red_count} reducible braids of which {red_real_count} have real eigenvalues")
-print(f"There are {multi_roots_count} braids with repeated eigenvalues")
 
+
+print()
+print(f"There are {multi_roots_count} braids with repeated eigenvalues")
+print(multi_roots)
 
 	
