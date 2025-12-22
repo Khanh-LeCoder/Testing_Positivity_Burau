@@ -14,17 +14,17 @@ for k in range(sample_size):
 	braid = random_braid(strands,length)
 	char = char_poly(braid.burau_matrix(var= 't',reduced =True))
 
-  if braid.is_pseudoanosov():
+	if braid.is_pseudoanosov():
 		pA_count = pA_count + 1
 		if count_real_roots(char) == strands - 1:
 			pA_real_count = pA_real_count + 1
 
-  if braid.is_periodic():
+	if braid.is_periodic():
 		per_count = per_count + 1
 		if count_real_roots(char) == strands - 1:
 			per_real_count = per_real_count + 1
 
-  if braid.is_reducible():
+	if braid.is_reducible():
 		red_count = red_count + 1
 		if count_real_roots(char) == strands - 1:
 			red_real_count = red_real_count + 1	
