@@ -9,7 +9,9 @@ def conjugating_words(braid):
   strands = braid.strands()
   F = FreeGroup(strands)
   for i in range(1,strands):
-    w = F([i])*braid.Tieze()
+    x = F([i])*braid.Tietze()
+    if len(x) > 1:
+      w = [t[j] for j in range((len(x) - 1)/2)]
     
     
   
