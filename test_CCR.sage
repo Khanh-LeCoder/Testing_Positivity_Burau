@@ -2,8 +2,17 @@
 The script tests the order-preserving criterion described in Cai-Clay-Rolfsen paper: https://arxiv.org/abs/2406.18876
 */
 
-
-
+def conjugating_words(braid):
+  '''
+  returns the conjugating words for the Artin action of the braid of the basis elements of the free group
+  '''
+  strands = braid.strands()
+  F = FreeGroup(strands)
+  for i in range(1,strands):
+    w = F([i])*braid.Tieze()
+    
+    
+  
 def is_CCR_satisfied(braid):
   return
 
