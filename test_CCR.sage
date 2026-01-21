@@ -17,9 +17,20 @@ def conjugating_words(braid):
     else:
       conj = conj + [[]]
   return conj
-    
-    
+
+def linking_tuple(braid,i):
+  '''
+  returns the linking number of all other components of the braid closure and an unknotted component obtained as the closure of the ith strand of the braid  
+  '''
+  perm = braid.permutation()
+  link_tup = []  
+  
+
   
 def is_CCR_satisfied(braid):
-  return
+  perm = braid.permutation()
+  if 1 is not in perm.cycle_type():
+    return False
+  else:
+    
 
