@@ -78,12 +78,18 @@ def count_sign_change(coeff_sequence):
 	return count
 
 def count_pos_roots(char):
+	'''
+	returns the number of distinct positive roots
+	'''
 	V_pos_infty = count_sign_change(lowest_coeff_seq(sturm_at_pos_infty(char)))
 	Vzero = count_sign_change(lowest_coeff_seq(sturm_at_zero(char)))
 	return Vzero - V_pos_infty
 
 
 def count_real_roots(char):
+	'''
+	returns the number of distinct real roots
+	'''
 	V_pos_infty = count_sign_change(lowest_coeff_seq(sturm_at_pos_infty(char)))
 	V_neg_infty = count_sign_change(lowest_coeff_seq(sturm_at_neg_infty(char)))
 	return V_neg_infty - V_pos_infty
