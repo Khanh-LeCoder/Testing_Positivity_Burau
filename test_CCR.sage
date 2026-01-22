@@ -39,15 +39,26 @@ def linking_tuple(braid,i):
   perm = braid.permutation()
   cycle_tup = perm.cycle_tuple()
   conj_words = conjugating_words(braid)
-  link_tup = []
+  linking_tup = []
   for cycle in cycle_tup:
     linking_num = 0
     if len(cycle) > 1 
       for k in cycle:
         linking_num = linking_num + alg_winding_num(conj_words[k-1],i)
-    link_tup = link_tup + [linking_num]
-  return link_tup
+    linking_tup = link_tup + [linking_num]
+  return linking_tup
 
+def test_tup(braid,i):
+  '''
+  returns the tuple of gcd(orbit size, linking num) for each cycle
+  '''
+  perm = braid.permutation()
+  cycle_tup = perm.cycle_tuple()
+  linking_tup = linking_tuple(braid,i)
+  tup = []
+  for k in range(len(cycle_tup)):
+    tup = tup + [gcd(len(cycle_tup[k]),linking_tup [k])]
+  return tup
   
 def is_CCR_satisfied(braid):
   '''
