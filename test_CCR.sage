@@ -19,9 +19,12 @@ def conjugating_words(braid):
   return conj
 
 def alg_winding_num(word,i):
+  '''
+  returns the algebraic winding number of an immersed curve representing a word in the free group about the ith puncture on a many punctured disk
+  '''
   F = FreeGroup()
   tup = word.Tietze()
-  h = 0
+  h = 0 
   for j in tup:
     if j == i:
       h = h + 1
