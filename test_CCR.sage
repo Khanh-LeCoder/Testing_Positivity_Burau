@@ -44,7 +44,7 @@ def linking_tuple(braid,i):
     if len(cycle) > 1:
       for k in cycle:
         linking_num = linking_num + alg_winding_num(conj_words[k-1],i)
-    linking_tup = linking_tuple + [linking_num]
+    linking_tup = linking_tup + [linking_num]
   return linking_tup
 
 def test_tup(braid,i):
