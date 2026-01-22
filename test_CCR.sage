@@ -14,7 +14,7 @@ def conjugating_words(braid):
       w = [x[j] for j in range((len(x) - 1)/2)]
       conj = conj + [w]
     else:
-      conj = conj + [[]]
+      conj.append([])
   return conj
 
 def alg_winding_num(word,i):
