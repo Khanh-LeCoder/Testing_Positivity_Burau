@@ -59,7 +59,9 @@ def test_tup(braid,i):
   for k in range(len(cycle_tup)):
     tup = tup + [gcd(len(cycle_tup[k]),linking_tup [k])]
   return tup
-  
+
+def is_all_one(tup): 
+
 def is_CCR_satisfied(braid):
   '''
   returns True if the condition by Cai Clay and Rolfsen is satisfied
