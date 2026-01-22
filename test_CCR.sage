@@ -50,6 +50,9 @@ def linking_tuple(braid,i):
 
   
 def is_CCR_satisfied(braid):
+  '''
+  returns True if the condition by Cai Clay and Rolfsen is satisfied
+  '''
   perm = braid.permutation()
   if 1 is not in perm.cycle_type():
     return False
