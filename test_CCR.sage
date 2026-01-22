@@ -38,8 +38,13 @@ def linking_tuple(braid,i):
   '''
   perm = braid.permutation()
   cycle_tup = perm.cycle_tuple()
-  link_tup = []  
+  conj_words = conjugating_words(braid)
+  link_tup = []
   for cycle in cycle_tup:
+    if cycle not 
+    linking_num = 0
+    for k in cycle:
+      linking_num = linking_num + alg_winding_num(conj_words[k-1],i)
   
 
   
