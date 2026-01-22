@@ -8,7 +8,7 @@ def conjugating_words(braid):
   strands = braid.strands()
   F = FreeGroup(strands)
   conj = []
-  for i in range(1,strands):
+  for i in range(1,strands+1):
     x = (F([i])*braid).Tietze()
     if len(x) > 1:
       w = [x[j] for j in range((len(x) - 1)/2)]
@@ -36,7 +36,7 @@ def linking_tuple(braid,i):
   returns the linking number of all other components of the braid closure and an unknotted component obtained as the closure of the ith strand of the braid  
   '''
   perm = braid.permutation()
-  cycle_tup = perm.cycle_tuple()
+  cycle_tup = perm.cycle_tuples()
   conj_words = conjugating_words(braid)
   linking_tup = []
   for cycle in cycle_tup:
@@ -44,7 +44,7 @@ def linking_tuple(braid,i):
     if len(cycle) > 1:
       for k in cycle:
         linking_num = linking_num + alg_winding_num(conj_words[k-1],i)
-    linking_tup = link_tup + [linking_num]
+    linking_tup = linking_tuple + [linking_num]
   return linking_tup
 
 def test_tup(braid,i):
@@ -52,7 +52,7 @@ def test_tup(braid,i):
   returns the tuple of gcd(orbit size, linking num) for each cycle
   '''
   perm = braid.permutation()
-  cycle_tup = perm.cycle_tuple()
+  cycle_tup = perm.cycle_tuples()
   linking_tup = linking_tuple(braid,i)
   tup = []
   for k in range(len(cycle_tup)):
@@ -74,7 +74,7 @@ def is_CCR_satisfied(braid):
   if 1 not in perm.cycle_type():
     return False
   else:
-    cycle_tup = perm.cycle_tuple()
+    cycle_tup = perm.cycle_tuples()
     fixed_strands = [cycle[0] for cycle in cycle_tup if len(cycle) == 1 ]
     isCCR = False
     for i in fixed_strands:
