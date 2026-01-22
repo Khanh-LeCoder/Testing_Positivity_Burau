@@ -18,6 +18,17 @@ def conjugating_words(braid):
       conj = conj + [[]]
   return conj
 
+def alg_winding_num(word,i):
+  F = FreeGroup()
+  tup = word.Tietze()
+  h = 0
+  for j in tup:
+    if j == i:
+      h = h + 1
+    else if j == -i:
+      h = h - 1
+  return h
+
 def linking_tuple(braid,i):
   '''
   returns the linking number of all other components of the braid closure and an unknotted component obtained as the closure of the ith strand of the braid  
