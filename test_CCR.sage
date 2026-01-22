@@ -1,6 +1,6 @@
-/* 
-The script tests the order-preserving criterion described in Cai-Clay-Rolfsen paper: https://arxiv.org/abs/2406.18876
-*/
+'''
+The script tests the order-preserving criterion described in Cai-Clay-Rolfsen paper: https://arxiv.org/abs/2406.18876 
+'''
 
 def conjugating_words(braid):
   '''
@@ -20,7 +20,7 @@ def conjugating_words(braid):
 
 def alg_winding_num(word,i):
   '''
-  returns the algebraic winding number of an immersed curve representing a word in the free group about the ith puncture on a many punctured disk
+  returns the exponent sum of xi in word
   '''
   F = FreeGroup()
   tup = word.Tietze()
@@ -28,7 +28,7 @@ def alg_winding_num(word,i):
   for j in tup:
     if j == i:
       h = h + 1
-    else if j == -i:
+    elif j == -i:
       h = h - 1
   return h
 
@@ -42,7 +42,7 @@ def linking_tuple(braid,i):
   linking_tup = []
   for cycle in cycle_tup:
     linking_num = 0
-    if len(cycle) > 1 
+    if len(cycle) > 1:
       for k in cycle:
         linking_num = linking_num + alg_winding_num(conj_words[k-1],i)
     linking_tup = link_tup + [linking_num]
