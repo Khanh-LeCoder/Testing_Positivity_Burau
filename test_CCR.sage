@@ -41,11 +41,12 @@ def linking_tuple(braid,i):
   conj_words = conjugating_words(braid)
   link_tup = []
   for cycle in cycle_tup:
-    if cycle not 
     linking_num = 0
-    for k in cycle:
-      linking_num = linking_num + alg_winding_num(conj_words[k-1],i)
-  
+    if len(cycle) > 1 
+      for k in cycle:
+        linking_num = linking_num + alg_winding_num(conj_words[k-1],i)
+    link_tup = link_tup + [linking_num]
+  return link_tup
 
   
 def is_CCR_satisfied(braid):
