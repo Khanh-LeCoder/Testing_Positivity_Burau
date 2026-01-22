@@ -1,6 +1,5 @@
-'''
-The script tests the order-preserving criterion described in Cai-Clay-Rolfsen paper: https://arxiv.org/abs/2406.18876 
-'''
+# The script tests the order-preserving criterion described in Cai-Clay-Rolfsen paper: https://arxiv.org/abs/2406.18876 
+
 
 def conjugating_words(braid):
   '''
@@ -72,7 +71,7 @@ def is_CCR_satisfied(braid):
   returns True if the condition by Cai Clay and Rolfsen is satisfied
   '''
   perm = braid.permutation()
-  if 1 is not in perm.cycle_type():
+  if 1 not in perm.cycle_type():
     return False
   else:
     cycle_tup = perm.cycle_tuple()
