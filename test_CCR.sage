@@ -37,7 +37,9 @@ def linking_tuple(braid,i):
   returns the linking number of all other components of the braid closure and an unknotted component obtained as the closure of the ith strand of the braid  
   '''
   perm = braid.permutation()
+  cycle_tup = perm.cycle_tuple()
   link_tup = []  
+  for cycle in cycle_tup:
   
 
   
