@@ -60,8 +60,13 @@ def test_tup(braid,i):
     tup = tup + [gcd(len(cycle_tup[k]),linking_tup [k])]
   return tup
 
-def is_all_one(tup): 
-
+def is_all_one(tup):
+  for k in tup:
+    if k != 1:
+      return False
+    else:
+      return True
+      
 def is_CCR_satisfied(braid):
   '''
   returns True if the condition by Cai Clay and Rolfsen is satisfied
@@ -70,5 +75,13 @@ def is_CCR_satisfied(braid):
   if 1 is not in perm.cycle_type():
     return False
   else:
+    cycle_tup = perm.cycle_tuple()
+    fixed_strands = [cycle[0] for cycle in cycle_tup if len(cycle) == 1 ]
+    isCCR = False
+    for i in fixed_strands:
+      test_tup(braid,i)
+      isCCR = isCCR or is_all_one(tup)
+    return isCCR
+      
     
 
