@@ -22,9 +22,8 @@ def alg_winding_num(word,i):
   returns the exponent sum of xi in word
   '''
   F = FreeGroup()
-  tup = word.Tietze()
   h = 0 
-  for j in tup:
+  for j in word:
     if j == i:
       h = h + 1
     elif j == -i:
