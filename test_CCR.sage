@@ -77,7 +77,7 @@ def is_CCR_satisfied(braid):
     fixed_strands = [cycle[0] for cycle in cycle_tup if len(cycle) == 1 ]
     isCCR = False
     for i in fixed_strands:
-      test_tup(braid,i)
+      tup = test_tup(braid,i)
       isCCR = isCCR or is_all_one(tup)
     return isCCR
       
